@@ -2,17 +2,17 @@
   "ok": true,
   "source": "codex-site-news-test",
   "noticeType": "test",
-  "exportedAt": "2026-06-01T05:11:40.980Z",
+  "exportedAt": "2026-06-01T05:17:32.329Z",
   "itemCount": 1,
   "items": [
     {
-      "id": "site-test-20260601-141140",
+      "id": "site-test-20260601-141732",
       "notice_type": "test",
       "source_chat_title": "Codex Test Publisher",
       "sender": "Codex Test Publisher",
       "title": "News 테스트 발행",
-      "message_text": "테스트 발행입니다. 홈페이지 News 메뉴에서 수신/표시 여부를 확인하기 위한 1건입니다. 발행시각: 2026-06-01 14:11:40",
-      "sent_at": "2026-06-01 14:11:40",
+      "message_text": "테스트 발행입니다. 홈페이지 News 메뉴에서 수신/표시 여부를 확인하기 위한 1건입니다. 발행시각: 2026-06-01 14:17:32",
+      "sent_at": "2026-06-01 14:17:32",
       "priority": "normal",
       "impact": "test",
       "remark": "Manual one-time site news publish test"
