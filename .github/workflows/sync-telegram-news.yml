@@ -1,0 +1,101 @@
+name: Sync Telegram News
+
+on:
+  schedule:
+    # 08:05 KST every day. GitHub Actions cron uses UTC.
+    - cron: '5 23 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Fetch Telegram morning news
+        env:
+          NEWS_APPS_SCRIPT_URL: ${{ secrets.NEWS_APPS_SCRIPT_URL }}
+          NEWS_ADMIN_KEY: ${{ secrets.NEWS_ADMIN_KEY }}
+        run: |
+          if [ -z "$NEWS_APPS_SCRIPT_URL" ]; then
+            echo "NEWS_APPS_SCRIPT_URL is not configured; skipping news sync."
+            exit 0
+          fi
+
+          node <<'NODE'
+          const { mkdir, writeFile } = require('node:fs/promises');
+          const { dirname, resolve } = require('node:path');
+
+          function formatKstIso(date) {
+            const kstOffsetMs = 9 * 60 * 60 * 1000;
+            return new Date(date.getTime() + kstOffsetMs).toISOString().replace('Z', '+09:00');
+          }
+
+          async function main() {
+            const requestUrl = new URL(process.env.NEWS_APPS_SCRIPT_URL.trim());
+            requestUrl.searchParams.set('action', 'exportNewsItems');
+            if (process.env.NEWS_ADMIN_KEY && process.env.NEWS_ADMIN_KEY.trim()) {
+              requestUrl.searchParams.set('key', process.env.NEWS_ADMIN_KEY.trim());
+            }
+            requestUrl.searchParams.set('noticeType', 'morning');
+
+            const response = await fetch(requestUrl);
+            if (!response.ok) {
+              throw new Error(`Telegram news export failed: HTTP ${response.status}`);
+            }
+
+            const payload = await response.json();
+            if (payload.ok === false) {
+              throw new Error(payload.error || 'Telegram news export failed.');
+            }
+
+            const items = Array.isArray(payload.items)
+              ? payload.items
+              : Array.isArray(payload.newsItems)
+                ? payload.newsItems
+                : [];
+
+            const outputPath = 'news/latest.json';
+            const resolvedOutputPath = resolve(outputPath);
+            await mkdir(dirname(resolvedOutputPath), { recursive: true });
+            await writeFile(
+              resolvedOutputPath,
+              `${JSON.stringify(
+                {
+                  ok: true,
+                  source: payload.source || 'telegram-superexhausted-bot',
+                  noticeType: payload.noticeType || 'morning',
+                  exportedAt: formatKstIso(new Date()),
+                  itemCount: items.length,
+                  items
+                },
+                null,
+                2
+              )}\n`,
+              'utf8'
+            );
+
+            console.log(`Wrote ${items.length} Telegram news item(s) to ${outputPath}`);
+          }
+
+          main().catch((error) => {
+            console.error(error instanceof Error ? error.message : error);
+            process.exitCode = 1;
+          });
+          NODE
+
+      - name: Commit latest news JSON
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add news/latest.json
+          if git diff --cached --quiet; then
+            echo "No news changes to commit."
+          else
+            git commit -m "chore: sync telegram news"
+            git push
+          fi
