@@ -1,8 +1,22 @@
 {
-  "ok": true,
-  "source": "initial",
-  "noticeType": "morning",
-  "exportedAt": "",
-  "itemCount": 0,
-  "items": []
+    "ok":  true,
+    "source":  "codex-live-news-test",
+    "noticeType":  "test",
+    "exportedAt":  "2026-06-01 11:27:05",
+    "sitePublishedAt":  "2026-06-01 11:27:05",
+    "itemCount":  1,
+    "items":  [
+                  {
+                      "id":  "codex-live-test-1780280825",
+                      "notice_type":  "test",
+                      "source_chat_title":  "Telegram Notice Test",
+                      "sender":  "telegram-superexhausted-bot",
+                      "title":  "Telegram and site simultaneous publish test",
+                      "message_text":  "동시발행 테스트입니다. Telegram 발송 함수 배포 후 이 same payload가 사이트 News에 즉시 표시됩니다. 테스트시각: 2026-06-01 11:27:05",
+                      "sent_at":  "2026-06-01 11:27:05",
+                      "priority":  "normal",
+                      "ok":  true,
+                      "error":  ""
+                  }
+              ]
 }
