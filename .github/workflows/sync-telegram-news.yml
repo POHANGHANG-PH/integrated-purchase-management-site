@@ -21,9 +21,9 @@ jobs:
           NEWS_APPS_SCRIPT_URL: ${{ secrets.NEWS_APPS_SCRIPT_URL }}
           NEWS_ADMIN_KEY: ${{ secrets.NEWS_ADMIN_KEY }}
         run: |
+          DEFAULT_NEWS_APPS_SCRIPT_URL="https://script.google.com/macros/s/AKfycbwPSrR-oS9R7JOCUt4bizUuqW3msfPgk9UYq06QvxMu6TbrLXg6TIeFOOZCJihcxKmU-A/exec"
           if [ -z "$NEWS_APPS_SCRIPT_URL" ]; then
-            echo "NEWS_APPS_SCRIPT_URL is not configured; skipping news sync."
-            exit 0
+            NEWS_APPS_SCRIPT_URL="$DEFAULT_NEWS_APPS_SCRIPT_URL"
           fi
 
           node <<'NODE'
