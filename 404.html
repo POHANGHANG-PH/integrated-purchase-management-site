@@ -4,10 +4,16 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Monthly BOM Purchase Planning</title>
-    <script type="module" crossorigin src="/integrated-purchase-management-site/assets/index-klMTdox0.js"></script>
-    <link rel="stylesheet" crossorigin href="/integrated-purchase-management-site/assets/index-DdL46Cm4.css">
+    <script>
+      const path = window.location.pathname;
+      const repoBase = '/integrated-purchase-management-system/';
+      if (path.startsWith(repoBase)) {
+        window.sessionStorage.setItem('spa-redirect-path', path + window.location.search + window.location.hash);
+        window.location.replace(repoBase);
+      } else {
+        window.location.replace('/');
+      }
+    </script>
   </head>
-  <body>
-    <div id="root"></div>
-  </body>
+  <body></body>
 </html>
