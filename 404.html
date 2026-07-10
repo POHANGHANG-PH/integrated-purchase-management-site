@@ -1,14 +1,19 @@
 <!doctype html>
-<html lang="ko">
+<html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>News 브리핑</title>
+    <title>Monthly BOM Purchase Planning</title>
     <script>
-      window.location.replace('/integrated-purchase-management-site/');
+      const path = window.location.pathname;
+      const repoBase = '/integrated-purchase-management-site/';
+      if (path.startsWith(repoBase)) {
+        window.sessionStorage.setItem('spa-redirect-path', path + window.location.search + window.location.hash);
+        window.location.replace(repoBase);
+      } else {
+        window.location.replace('/');
+      }
     </script>
   </head>
-  <body>
-    <p><a href="/integrated-purchase-management-site/">News 브리핑으로 이동</a></p>
-  </body>
+  <body></body>
 </html>
