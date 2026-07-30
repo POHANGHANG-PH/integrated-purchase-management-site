@@ -1,13 +1,106 @@
 <!doctype html>
-<html lang="en">
+<html lang="ko">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Monthly BOM Purchase Planning</title>
-    <script type="module" crossorigin src="/integrated-purchase-management-site/assets/index-BuNpVZKF.js"></script>
-    <link rel="stylesheet" crossorigin href="/integrated-purchase-management-site/assets/index-Bxt6UDzN.css">
+    <script type="module" crossorigin src="/integrated-purchase-management-site/assets/index-BpIs2lS2.js"></script>
+    <link rel="stylesheet" crossorigin href="/integrated-purchase-management-site/assets/index-BXfLxbX7.css">
   </head>
   <body>
-    <div id="root"></div>
+    <div id="root">
+      <div style="font-family: Arial, sans-serif; padding: 24px; color: #334155">
+        로그인 화면 준비 중...
+      </div>
+    </div>
+    <script>
+      (() => {
+        const retryKey = 'fpteam-boot-retry-v1';
+        let appReady = false;
+        let failureReason = '앱 실행 파일을 불러오지 못했습니다.';
+
+        function safeSessionStorage() {
+          try {
+            return window.sessionStorage;
+          } catch {
+            return undefined;
+          }
+        }
+
+        function showRecoveryScreen() {
+          const root = document.getElementById('root');
+          if (!root || appReady) return;
+          root.replaceChildren();
+
+          const main = document.createElement('main');
+          main.style.cssText =
+            'min-height:100vh;display:flex;align-items:center;justify-content:center;background:#f1f5f9;padding:24px;font-family:Arial,sans-serif';
+          const card = document.createElement('section');
+          card.style.cssText = 'max-width:460px;background:#fff;border:1px solid #cbd5e1;padding:24px;box-shadow:0 8px 24px rgba(15,23,42,.08)';
+          const title = document.createElement('h1');
+          title.textContent = '사이트에 접속할 수 없습니다';
+          title.style.cssText = 'margin:0;color:#991b1b;font-size:20px';
+          const reason = document.createElement('p');
+          reason.textContent = failureReason;
+          reason.style.cssText = 'margin:12px 0 0;color:#334155;font-size:14px;line-height:1.6';
+          const help = document.createElement('p');
+          help.textContent = '네트워크 또는 배포 전파 지연일 수 있습니다. 아래 버튼으로 다시 시도하세요.';
+          help.style.cssText = 'margin:8px 0 20px;color:#64748b;font-size:12px;line-height:1.6';
+          const retry = document.createElement('button');
+          retry.type = 'button';
+          retry.textContent = '다시 시도';
+          retry.style.cssText = 'border:0;background:#0f172a;color:#fff;padding:10px 16px;font-weight:700;cursor:pointer';
+          retry.addEventListener('click', () => window.location.reload());
+          card.append(title, reason, help, retry);
+          main.append(card);
+          root.append(main);
+        }
+
+        function recoverOrExplain() {
+          if (appReady) return;
+          const storage = safeSessionStorage();
+          const previousAttempt = Number(storage?.getItem(retryKey) || 0);
+          const recentlyRetried = Date.now() - previousAttempt < 5 * 60 * 1000;
+
+          if (!recentlyRetried) {
+            try {
+              storage?.setItem(retryKey, String(Date.now()));
+            } catch {
+              // The fallback screen still works when browser storage is blocked.
+            }
+            const url = new URL(window.location.href);
+            url.searchParams.set('_recover', String(Date.now()));
+            window.location.replace(url.toString());
+            return;
+          }
+
+          showRecoveryScreen();
+        }
+
+        window.addEventListener('fpteam-app-ready', () => {
+          appReady = true;
+          try {
+            safeSessionStorage()?.removeItem(retryKey);
+          } catch {
+            // No action is required when cleanup is blocked.
+          }
+        });
+        window.addEventListener(
+          'error',
+          (event) => {
+            const target = event.target;
+            if (target instanceof HTMLScriptElement || target instanceof HTMLLinkElement) {
+              failureReason = '필수 화면 파일을 내려받지 못했습니다.';
+              window.setTimeout(recoverOrExplain, 100);
+            }
+          },
+          true
+        );
+        window.addEventListener('unhandledrejection', () => {
+          failureReason = '앱을 시작하는 중 예기치 않은 오류가 발생했습니다.';
+        });
+        window.setTimeout(recoverOrExplain, 8000);
+      })();
+    </script>
   </body>
 </html>
