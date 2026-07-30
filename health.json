@@ -1,7 +1,66 @@
 {
   "status": "ok",
   "environment": "production",
-  "deployedAt": "2026-07-30T06:51:02.712Z",
-  "sourceCommit": "8e43cba0da63ed4d0c40434c4da08c5a189f2afe",
-  "workflowRunId": "30520878691"
+  "deployedAt": "2026-07-30T07:34:19.755Z",
+  "sourceCommit": "4733a31993b2fac70908a6fd86c1cf82c3d0db0f",
+  "workflowRunId": "30523367049",
+  "releaseContract": {
+    "version": 1,
+    "criticalFeatures": [
+      {
+        "id": "purchase-planning-core",
+        "label": "Dashboard",
+        "route": "/"
+      },
+      {
+        "id": "monthly-pricing",
+        "label": "월별 가격정보",
+        "route": "/posco-pricing"
+      },
+      {
+        "id": "terex-planning",
+        "label": "Terex Genie",
+        "route": "/production-plan"
+      },
+      {
+        "id": "spile-planning",
+        "label": "S-PILE",
+        "route": "/s-pile/production-plan"
+      },
+      {
+        "id": "generated-news",
+        "label": "News",
+        "route": "/news"
+      }
+    ]
+  },
+  "releaseGuard": {
+    "status": "verified",
+    "verifiedAt": "2026-07-30T07:35:52.498Z",
+    "contractVersion": 1,
+    "criticalFeatures": [
+      "purchase-planning-core",
+      "monthly-pricing",
+      "terex-planning",
+      "spile-planning",
+      "generated-news"
+    ],
+    "artifacts": [
+      {
+        "path": "assets/index-BGw6tOyf.js",
+        "bytes": 446219,
+        "sha256": "1acaf4724d9cfea6f1181a3e35b2687635f50a82bbc3ccb256a9c1522b278ce4"
+      },
+      {
+        "path": "assets/index-RYXPQEd_.css",
+        "bytes": 23660,
+        "sha256": "ac5f808a619159bd4f7b589ed48e75e8cbe49afc04fe218de9879a8c0153b341"
+      },
+      {
+        "path": "assets/PoscoPriceCalculator-DoM6UGcK.js",
+        "bytes": 354418,
+        "sha256": "0b07e28d73ab410d8ef7953e1fce6895c026b112c9426569af43e7fccb597e45"
+      }
+    ]
+  }
 }
