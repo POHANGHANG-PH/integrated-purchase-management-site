@@ -1,9 +1,9 @@
 {
   "status": "ok",
   "environment": "production",
-  "deployedAt": "2026-08-14T08:08:31.399Z",
-  "sourceCommit": "232231bf3306cc2b701a9e7dbdcd322a5b65f542",
-  "workflowRunId": "31782671715",
+  "deployedAt": "2026-08-14T08:19:06.960Z",
+  "sourceCommit": "05ba78ab53142a183afb02b32db7126751d6d3ef",
+  "workflowRunId": "31783399868",
   "releaseContract": {
     "version": 2,
     "criticalFeatures": [
@@ -46,7 +46,7 @@
   },
   "releaseGuard": {
     "status": "verified",
-    "verifiedAt": "2026-08-14T08:10:03.197Z",
+    "verifiedAt": "2026-08-14T08:20:41.835Z",
     "contractVersion": 2,
     "criticalFeatures": [
       "purchase-planning-core",
@@ -59,24 +59,24 @@
     ],
     "artifacts": [
       {
-        "path": "assets/index-BVbzASG5.js",
-        "bytes": 460028,
-        "sha256": "b7b7fb802e16a4244c212ead8eeb62d8005ba907687c2b2631fb8f85382df20b"
+        "path": "assets/index-CvChRa-9.js",
+        "bytes": 460026,
+        "sha256": "9ec03bb9198dc94098191f88d8346a64ef31a9b3459272c0dc39acfb8ae7c2fa"
       },
       {
-        "path": "assets/index-7wXHYZpd.css",
-        "bytes": 25364,
-        "sha256": "2b06b0405cd0144a8d7c95ad17a9806ebf6463a180e8c5bd12a6a7385fb4022d"
+        "path": "assets/index-Ca-JYYDH.css",
+        "bytes": 25564,
+        "sha256": "ecd00ca22bd37f32f44e19e2a26e2282cd0457c67fb48f950156f0120ca37815"
       },
       {
-        "path": "assets/PoscoPriceCalculator-C-a36urZ.js",
+        "path": "assets/PoscoPriceCalculator-Dp1FdXgp.js",
         "bytes": 354309,
-        "sha256": "28ff607fc8916b292101c27ca4d874dde68ec096893ece062d4f591e2e15459b"
+        "sha256": "5563bb637ef31353f01cfe7d950d7a2bfda6b6b6f56c5ec298a4bdfc0e785959"
       },
       {
-        "path": "assets/MarketPriceInformation-DOWXg32K.js",
-        "bytes": 7462,
-        "sha256": "a8bad73bd65fd3f44b7983d6abafde091b620ea490efff016ceb81c210409835"
+        "path": "assets/MarketPriceInformation-BCMAsb83.js",
+        "bytes": 8539,
+        "sha256": "ffa33a4b4820e4ec93b9f8cd3fb27d2170d8c0486eb777bc650b90844094e89a"
       }
     ]
   }
