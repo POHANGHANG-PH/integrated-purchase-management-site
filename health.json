@@ -1,11 +1,11 @@
 {
   "status": "ok",
   "environment": "production",
-  "deployedAt": "2026-08-14T00:01:01.589Z",
-  "sourceCommit": "4733a31993b2fac70908a6fd86c1cf82c3d0db0f",
-  "workflowRunId": "31755883432",
+  "deployedAt": "2026-08-14T07:26:49.516Z",
+  "sourceCommit": "c2a4726c279325207b5650e36198ee341508b71f",
+  "workflowRunId": "31779940715",
   "releaseContract": {
-    "version": 1,
+    "version": 2,
     "criticalFeatures": [
       {
         "id": "purchase-planning-core",
@@ -13,9 +13,19 @@
         "route": "/"
       },
       {
+        "id": "pricing-overview",
+        "label": "종합현황",
+        "route": "/pricing/overview"
+      },
+      {
         "id": "monthly-pricing",
-        "label": "월별 가격정보",
-        "route": "/posco-pricing"
+        "label": "POSCO 투입가격·계산",
+        "route": "/pricing/posco"
+      },
+      {
+        "id": "market-pricing",
+        "label": "시중가격정보",
+        "route": "/pricing/market"
       },
       {
         "id": "terex-planning",
@@ -36,30 +46,37 @@
   },
   "releaseGuard": {
     "status": "verified",
-    "verifiedAt": "2026-08-14T00:02:31.652Z",
-    "contractVersion": 1,
+    "verifiedAt": "2026-08-14T07:28:31.088Z",
+    "contractVersion": 2,
     "criticalFeatures": [
       "purchase-planning-core",
+      "pricing-overview",
       "monthly-pricing",
+      "market-pricing",
       "terex-planning",
       "spile-planning",
       "generated-news"
     ],
     "artifacts": [
       {
-        "path": "assets/index-BGw6tOyf.js",
-        "bytes": 446219,
-        "sha256": "1acaf4724d9cfea6f1181a3e35b2687635f50a82bbc3ccb256a9c1522b278ce4"
+        "path": "assets/index-7Rw_Rv27.js",
+        "bytes": 460076,
+        "sha256": "7104fbbbea77fd2ceb68bf68455eb67fbbdb765d4188f32a19181294d62d0226"
       },
       {
-        "path": "assets/index-RYXPQEd_.css",
-        "bytes": 23660,
-        "sha256": "ac5f808a619159bd4f7b589ed48e75e8cbe49afc04fe218de9879a8c0153b341"
+        "path": "assets/index-7VyvchwK.css",
+        "bytes": 25682,
+        "sha256": "a67227f71e5c30e9a537ad528fa83459e29d0dc041e9226d3533e7f97afe4040"
       },
       {
-        "path": "assets/PoscoPriceCalculator-DoM6UGcK.js",
-        "bytes": 354418,
-        "sha256": "0b07e28d73ab410d8ef7953e1fce6895c026b112c9426569af43e7fccb597e45"
+        "path": "assets/PoscoPriceCalculator-Dfd397oX.js",
+        "bytes": 354309,
+        "sha256": "5ca4a91ff2845e1193ac4d9abbf65eced449b45805f367c1304e10823dac94e9"
+      },
+      {
+        "path": "assets/MarketPriceInformation-DuSukXY1.js",
+        "bytes": 8489,
+        "sha256": "7478cf2838006518691d2e0802a2c2954bfb6d8cc1c86116df631c0f650ecd1b"
       }
     ]
   }
