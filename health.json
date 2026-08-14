@@ -1,9 +1,9 @@
 {
   "status": "ok",
   "environment": "production",
-  "deployedAt": "2026-08-14T07:26:49.516Z",
-  "sourceCommit": "c2a4726c279325207b5650e36198ee341508b71f",
-  "workflowRunId": "31779940715",
+  "deployedAt": "2026-08-14T07:42:33.701Z",
+  "sourceCommit": "fe56f5f1c8e0c7072502b03b0e87ca233f0d6ba8",
+  "workflowRunId": "31780962133",
   "releaseContract": {
     "version": 2,
     "criticalFeatures": [
@@ -46,7 +46,7 @@
   },
   "releaseGuard": {
     "status": "verified",
-    "verifiedAt": "2026-08-14T07:28:31.088Z",
+    "verifiedAt": "2026-08-14T07:44:06.908Z",
     "contractVersion": 2,
     "criticalFeatures": [
       "purchase-planning-core",
@@ -59,24 +59,24 @@
     ],
     "artifacts": [
       {
-        "path": "assets/index-7Rw_Rv27.js",
-        "bytes": 460076,
-        "sha256": "7104fbbbea77fd2ceb68bf68455eb67fbbdb765d4188f32a19181294d62d0226"
+        "path": "assets/index-BQ_wNSmn.js",
+        "bytes": 460141,
+        "sha256": "0f5265404408ddc914c697a3ef2519594bb9fc7bbb276a383a215c903d910f8a"
       },
       {
-        "path": "assets/index-7VyvchwK.css",
-        "bytes": 25682,
-        "sha256": "a67227f71e5c30e9a537ad528fa83459e29d0dc041e9226d3533e7f97afe4040"
+        "path": "assets/index-2k8LAQV9.css",
+        "bytes": 25632,
+        "sha256": "9599a2c5b0751847d949031bc13b1343bbd401f58a2e91fed2375b5150d650ea"
       },
       {
-        "path": "assets/PoscoPriceCalculator-Dfd397oX.js",
+        "path": "assets/PoscoPriceCalculator-DhVndADv.js",
         "bytes": 354309,
-        "sha256": "5ca4a91ff2845e1193ac4d9abbf65eced449b45805f367c1304e10823dac94e9"
+        "sha256": "a89652b3c911ea22c7744b3e99450218bdd9c5b2cfe25e46a6efb3810a0042c5"
       },
       {
-        "path": "assets/MarketPriceInformation-DuSukXY1.js",
-        "bytes": 8489,
-        "sha256": "7478cf2838006518691d2e0802a2c2954bfb6d8cc1c86116df631c0f650ecd1b"
+        "path": "assets/MarketPriceInformation-DztFiPk_.js",
+        "bytes": 8690,
+        "sha256": "fd9d6c3049967a024fcfcd9bdbb99df3da0d0674b9b9417fdcd95912571f8f6c"
       }
     ]
   }
