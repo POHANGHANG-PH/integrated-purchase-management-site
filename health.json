@@ -1,9 +1,9 @@
 {
   "status": "ok",
   "environment": "production",
-  "deployedAt": "2026-08-14T07:58:13.380Z",
-  "sourceCommit": "e409239bf46bd52e6889cf714295889288ad393c",
-  "workflowRunId": "31781997211",
+  "deployedAt": "2026-08-14T08:08:31.399Z",
+  "sourceCommit": "232231bf3306cc2b701a9e7dbdcd322a5b65f542",
+  "workflowRunId": "31782671715",
   "releaseContract": {
     "version": 2,
     "criticalFeatures": [
@@ -46,7 +46,7 @@
   },
   "releaseGuard": {
     "status": "verified",
-    "verifiedAt": "2026-08-14T07:59:46.877Z",
+    "verifiedAt": "2026-08-14T08:10:03.197Z",
     "contractVersion": 2,
     "criticalFeatures": [
       "purchase-planning-core",
@@ -59,9 +59,9 @@
     ],
     "artifacts": [
       {
-        "path": "assets/index-T4puJ7Fq.js",
+        "path": "assets/index-BVbzASG5.js",
         "bytes": 460028,
-        "sha256": "d2097fb7c5608a38f1194bf7cdc13a39ccc049b1f1aeb06ba71fcf9c968bf56e"
+        "sha256": "b7b7fb802e16a4244c212ead8eeb62d8005ba907687c2b2631fb8f85382df20b"
       },
       {
         "path": "assets/index-7wXHYZpd.css",
@@ -69,14 +69,14 @@
         "sha256": "2b06b0405cd0144a8d7c95ad17a9806ebf6463a180e8c5bd12a6a7385fb4022d"
       },
       {
-        "path": "assets/PoscoPriceCalculator-Ba9GlPNv.js",
+        "path": "assets/PoscoPriceCalculator-C-a36urZ.js",
         "bytes": 354309,
-        "sha256": "147c1be96a66a9ededa8ab4b6e38a573931e5f53ebc5d085c51eae7a7f3d03d6"
+        "sha256": "28ff607fc8916b292101c27ca4d874dde68ec096893ece062d4f591e2e15459b"
       },
       {
-        "path": "assets/MarketPriceInformation-DpfwU9JI.js",
-        "bytes": 7800,
-        "sha256": "725f8809ae03ef19fa4c1e9594576116eef1b2b545423fc0eb487ca59491acc9"
+        "path": "assets/MarketPriceInformation-DOWXg32K.js",
+        "bytes": 7462,
+        "sha256": "a8bad73bd65fd3f44b7983d6abafde091b620ea490efff016ceb81c210409835"
       }
     ]
   }
