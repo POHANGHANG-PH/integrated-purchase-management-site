@@ -12,6 +12,15 @@
       "priority": "high",
       "impact": "긴급분 우선 확보, 일반분 분할 구매 및 가격 인하 반영 재견적",
       "classificationNote": "스틸데일리 로그인 기사·DB센터와 글로벌 금융지표를 구매 관점으로 교차 검토",
+      "marketFallback": {
+        "usdKrw": { "label": "USD/KRW", "symbol": "KRW=X", "value": 1409.05, "date": "2026-08-18", "changePercent": -0.4465, "source": "Yahoo Finance (배포 전 확인값)" },
+        "jpyKrw": { "label": "JPY/KRW", "symbol": "JPYKRW=X", "value": 8.809, "date": "2026-08-18", "changePercent": -0.9011, "source": "Yahoo Finance (배포 전 확인값)" },
+        "cnyKrw": { "label": "CNY/KRW", "symbol": "CNYKRW=X", "value": 208.957, "date": "2026-08-18", "source": "Yahoo Finance (배포 전 확인값)" },
+        "eurKrw": { "label": "EUR/KRW", "symbol": "EURKRW=X", "value": 1630, "date": "2026-08-18", "changePercent": 3.0283, "source": "Yahoo Finance (배포 전 확인값)" },
+        "sp500": { "label": "S&P 500", "symbol": "^GSPC", "value": 7745.06, "date": "2026-08-17", "changePercent": -0.5227, "source": "Yahoo Finance (배포 전 확인값)" },
+        "nasdaq": { "label": "Nasdaq", "symbol": "^IXIC", "value": 26644.91, "date": "2026-08-17", "changePercent": -0.3152, "source": "Yahoo Finance (배포 전 확인값)" },
+        "nikkei225": { "label": "Nikkei 225", "symbol": "^N225", "value": 68098.54, "date": "2026-08-18", "changePercent": -0.8954, "source": "Yahoo Finance (배포 전 확인값)" }
+      },
       "remark": "기사 원문은 저장하지 않고 제목·요약·근거 링크와 확인값만 반영"
     }
   ]
