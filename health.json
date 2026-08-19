@@ -1,11 +1,11 @@
 {
   "status": "ok",
   "environment": "production",
-  "deployedAt": "2026-08-19T00:20:31.744Z",
-  "sourceCommit": "c3ae79a98c6424f8f33d1e8fd9017ac0df6610dc",
-  "workflowRunId": "32200845171",
+  "deployedAt": "2026-08-19T01:21:44.117Z",
+  "sourceCommit": "89ba1d1254396b1daa89190ce21476df7f10137f",
+  "workflowRunId": "32204631253",
   "releaseContract": {
-    "version": 4,
+    "version": 5,
     "criticalFeatures": [
       {
         "id": "purchase-planning-core",
@@ -41,13 +41,18 @@
         "id": "generated-news",
         "label": "News",
         "route": "/news"
+      },
+      {
+        "id": "library-tolerance",
+        "label": "Library Tolerance Data",
+        "route": "/library/tolerance-data/tctech"
       }
     ]
   },
   "releaseGuard": {
     "status": "verified",
-    "verifiedAt": "2026-08-19T00:22:11.448Z",
-    "contractVersion": 4,
+    "verifiedAt": "2026-08-19T01:23:26.025Z",
+    "contractVersion": 5,
     "criticalFeatures": [
       "purchase-planning-core",
       "pricing-overview",
@@ -55,7 +60,8 @@
       "market-pricing",
       "terex-planning",
       "spile-planning",
-      "generated-news"
+      "generated-news",
+      "library-tolerance"
     ],
     "artifacts": [
       {
@@ -87,6 +93,46 @@
         "path": "assets/MarketPriceInformation-CzgF_rkz.js",
         "bytes": 7465,
         "sha256": "ab8c19b5efe9ef95459fdc8c650d0b908b25ca61e52fa727f553a5d7c2e05413"
+      },
+      {
+        "path": "library/tolerance/steel-thickness-tolerance-standards.pdf",
+        "bytes": 840937,
+        "sha256": "8ee0fbbad414d2f3b9c10888c5eb15231411836ba848e39b0d7328f3ec2c2406"
+      },
+      {
+        "path": "library/tolerance/posco-ks-sm355a-thickness-tolerance.png",
+        "bytes": 102760,
+        "sha256": "c1fe12cbce50d08a1c1e80887010cd0651aaf647da617cdeca682922aca75730"
+      },
+      {
+        "path": "library/tolerance/posco-a36-thickness-tolerance.png",
+        "bytes": 321719,
+        "sha256": "9a74bda26391babd17c8e5c22b5656cca291f57a963382af1e00ce565bba9e5d"
+      },
+      {
+        "path": "library/tolerance/tctech-steel-thickness-tolerance-slide-1.png",
+        "bytes": 225450,
+        "sha256": "cb6e66944e64b61bc2880a77a76f9a47083064848904e9756d5a712ac7b9fd21"
+      },
+      {
+        "path": "library/tolerance/tctech-steel-thickness-tolerance-slide-2.png",
+        "bytes": 337573,
+        "sha256": "564d753aa782909cd425b8eb7e6b617b5520bf4d8b83518d5970ec326fb49942"
+      },
+      {
+        "path": "library/tolerance/tctech-steel-thickness-tolerance-slide-3.png",
+        "bytes": 216121,
+        "sha256": "9a0629b2c66cb514f2585890b42e39727f321b1349e1fd9adc4012eccf062e9b"
+      },
+      {
+        "path": "library/tolerance/tctech-steel-thickness-tolerance-slide-4.png",
+        "bytes": 261826,
+        "sha256": "412d681cb89af96efcedf24df7e69259d5155dcf81c4127766864a9db5e03016"
+      },
+      {
+        "path": "library/tolerance/tctech-steel-thickness-tolerance-slide-5.png",
+        "bytes": 357203,
+        "sha256": "cbaa8ab509bcdef55aae0006f61188ce8a20fa937855906c7951f45ccf21325d"
       }
     ]
   }
