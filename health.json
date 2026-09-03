@@ -1,11 +1,11 @@
 {
   "status": "ok",
   "environment": "production",
-  "deployedAt": "2026-09-03T04:54:59.130Z",
-  "sourceCommit": "c77335c079beb48be14046538b1fc8b130e0b1b4",
-  "workflowRunId": "33716769614",
+  "deployedAt": "2026-09-03T05:10:54.725Z",
+  "sourceCommit": "16193a772045cd14687a8a37cd0c5deac9311ebe",
+  "workflowRunId": "33717776660",
   "releaseContract": {
-    "version": 5,
+    "version": 6,
     "criticalFeatures": [
       {
         "id": "purchase-planning-core",
@@ -51,8 +51,8 @@
   },
   "releaseGuard": {
     "status": "verified",
-    "verifiedAt": "2026-09-03T04:56:38.434Z",
-    "contractVersion": 5,
+    "verifiedAt": "2026-09-03T05:12:39.411Z",
+    "contractVersion": 6,
     "criticalFeatures": [
       "purchase-planning-core",
       "pricing-overview",
@@ -93,6 +93,11 @@
         "path": "assets/MarketPriceInformation-IIA_Cuad.js",
         "bytes": 7493,
         "sha256": "11d8b39c6f647a75cf7bfb6eb581d03b9f0a9e88d0b0bd6012186a64087c9d86"
+      },
+      {
+        "path": "404.html",
+        "bytes": 858,
+        "sha256": "779dfcfec02d1a9a2ac652b9c4d2a37eab467f1465251941dd85d3ae13bf8334"
       },
       {
         "path": "library/tolerance/steel-thickness-tolerance-standards.pdf",

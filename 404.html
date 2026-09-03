@@ -10,7 +10,9 @@
       const appBase = repoBase + 'app/';
       if (path.startsWith(repoBase)) {
         window.sessionStorage.setItem('spa-redirect-path', path + window.location.search + window.location.hash);
-        window.location.replace(path.startsWith(appBase) ? appBase : repoBase);
+        const reloadUrl = new URL(path.startsWith(appBase) ? appBase : repoBase, window.location.origin);
+        reloadUrl.searchParams.set('_routeReload', Date.now().toString());
+        window.location.replace(reloadUrl.toString());
       } else {
         window.location.replace('/');
       }
