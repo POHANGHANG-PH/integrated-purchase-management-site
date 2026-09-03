@@ -1,9 +1,9 @@
 {
   "status": "ok",
   "environment": "production",
-  "deployedAt": "2026-09-03T01:10:10.686Z",
-  "sourceCommit": "1e5bbe7d4e0d09732c946895f05ba82035d39511",
-  "workflowRunId": "33702424615",
+  "deployedAt": "2026-09-03T04:54:59.130Z",
+  "sourceCommit": "c77335c079beb48be14046538b1fc8b130e0b1b4",
+  "workflowRunId": "33716769614",
   "releaseContract": {
     "version": 5,
     "criticalFeatures": [
@@ -51,7 +51,7 @@
   },
   "releaseGuard": {
     "status": "verified",
-    "verifiedAt": "2026-09-03T01:11:47.282Z",
+    "verifiedAt": "2026-09-03T04:56:38.434Z",
     "contractVersion": 5,
     "criticalFeatures": [
       "purchase-planning-core",
@@ -65,19 +65,19 @@
     ],
     "artifacts": [
       {
-        "path": "assets/index-4rWjkccL.js",
-        "bytes": 471700,
-        "sha256": "324c966660f1c1bd6a50ad9774ab05983e2338bb6a240329664084f6e42716d7"
+        "path": "assets/index-CwEmGnb5.js",
+        "bytes": 472827,
+        "sha256": "69fbe25275fa5c04f736f7240764da7b7fba893daa44db2956762ea3e7f3de38"
       },
       {
-        "path": "assets/index-DTEqafRf.css",
-        "bytes": 28239,
-        "sha256": "33aa77acb01cf07a619e37e696d0768f55ecf13881c30de3597d3ab6b6562892"
+        "path": "assets/index-CUYHpMpo.css",
+        "bytes": 28486,
+        "sha256": "d9934262fbe156054201649cd8532190aea7d3b8f7bc31cb26e15a6998358e5f"
       },
       {
-        "path": "assets/PriceOverview-u3GTkWcq.js",
+        "path": "assets/PriceOverview-BYZoQDef.js",
         "bytes": 9997,
-        "sha256": "8b38fe5e7685016d859e3d09477dcaebbdf78c1339e91dea50ce9d6a84f71cfa"
+        "sha256": "98592970576ed42bd42fe99988271c60984651700eac0ae6516fd90f427166c8"
       },
       {
         "path": "assets/poscoPriceService-CtEyYg60.js",
@@ -85,14 +85,14 @@
         "sha256": "6957f83ba846f401ed10573392e1abfa6090273a9554f253ea439f57e0115b8d"
       },
       {
-        "path": "assets/PoscoPriceCalculator-Bny0NygV.js",
+        "path": "assets/PoscoPriceCalculator-CCc4jUZ3.js",
         "bytes": 25971,
-        "sha256": "9b551e279781df0b9daa23fd3a3397d060ef95feccf1dcbaeddeaaae0dc5a08b"
+        "sha256": "2c1e835d2876dda450aee4ffb90151895beffc3f2df4fd912e63fec14fa23a42"
       },
       {
-        "path": "assets/MarketPriceInformation-Bjo71zHM.js",
+        "path": "assets/MarketPriceInformation-IIA_Cuad.js",
         "bytes": 7493,
-        "sha256": "c84b9e5b43e25dd5397646242a1fd0c811a5fb1775f067f908bd0330f20d4cc8"
+        "sha256": "11d8b39c6f647a75cf7bfb6eb581d03b9f0a9e88d0b0bd6012186a64087c9d86"
       },
       {
         "path": "library/tolerance/steel-thickness-tolerance-standards.pdf",
