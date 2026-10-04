@@ -1,9 +1,9 @@
 {
   "status": "ok",
   "environment": "production",
-  "deployedAt": "2026-10-04T02:27:55.539Z",
+  "deployedAt": "2026-10-04T02:42:47.576Z",
   "sourceCommit": "34c45c1fb7e2dc0a26c7449ec22ea7222ac36fa9",
-  "workflowRunId": "37171114063",
+  "workflowRunId": "37171878927",
   "releaseContract": {
     "version": 6,
     "criticalFeatures": [
@@ -51,7 +51,7 @@
   },
   "releaseGuard": {
     "status": "verified",
-    "verifiedAt": "2026-10-04T02:29:42.574Z",
+    "verifiedAt": "2026-10-04T02:44:02.374Z",
     "contractVersion": 6,
     "criticalFeatures": [
       "purchase-planning-core",
