@@ -1,9 +1,9 @@
 {
   "status": "ok",
   "environment": "production",
-  "deployedAt": "2026-10-27T02:25:19.606Z",
-  "sourceCommit": "212668c596064477a4f401c06d8f5dc98b351309",
-  "workflowRunId": "40438262903",
+  "deployedAt": "2026-10-27T05:55:33.504Z",
+  "sourceCommit": "2d4ece34f4b4adf40c68018c0ba14f8c302a348b",
+  "workflowRunId": "40458015112",
   "releaseContract": {
     "version": 6,
     "criticalFeatures": [
@@ -51,7 +51,7 @@
   },
   "releaseGuard": {
     "status": "verified",
-    "verifiedAt": "2026-10-27T02:28:30.609Z",
+    "verifiedAt": "2026-10-27T05:58:48.731Z",
     "contractVersion": 6,
     "criticalFeatures": [
       "purchase-planning-core",
@@ -65,19 +65,19 @@
     ],
     "artifacts": [
       {
-        "path": "assets/index-A-MORqEZ.js",
-        "bytes": 505140,
-        "sha256": "4497e0fba20787d5f238f3d7cd895678e6fa59929e9863c8e6fd0b2affc773ad"
+        "path": "assets/index-B8Hb6O-L.js",
+        "bytes": 505369,
+        "sha256": "9286a73cef8d074cfd2eea73d5fd4fd542f2d9157080c2823bd64c966936da4d"
       },
       {
-        "path": "assets/index-CkG-ONhx.css",
-        "bytes": 29721,
-        "sha256": "8d4814e514734f3dd4ffe23517b83401e8455b1958e0b86e000297556c5e2243"
+        "path": "assets/index-iPNyfnIq.css",
+        "bytes": 29836,
+        "sha256": "a2fd747e41859bd13cf947a404a3ff594c157062375f3bfff85c860524409c8f"
       },
       {
-        "path": "assets/PriceOverview-B_XtWiIl.js",
+        "path": "assets/PriceOverview-DB9M4qiy.js",
         "bytes": 10017,
-        "sha256": "9a73c80054e5e8be6f427acebbfabc1de5147ae273c2e23046b9e336d630ebcc"
+        "sha256": "cca8db7e92626f4114b416c1e71807819fa698c2a4adde596107e1fc8ec95804"
       },
       {
         "path": "assets/poscoPriceService-MFimep74.js",
@@ -85,14 +85,14 @@
         "sha256": "213c5a59c8020333371a0df14d860cb94dce4a7ee9d685bf14ef2d40b812cde5"
       },
       {
-        "path": "assets/PoscoPriceCalculator-BooNj_sC.js",
+        "path": "assets/PoscoPriceCalculator-CpqDw1n_.js",
         "bytes": 26373,
-        "sha256": "8e50d56e6a3de64110429820c1d1494aab2671b68d2011b405910b15378a27ff"
+        "sha256": "bd46ffd6243b44dce7bac78a2c2769047508aec7e48beec092654045c6882a32"
       },
       {
-        "path": "assets/MarketPriceInformation-BrsXncqM.js",
+        "path": "assets/MarketPriceInformation-DnfcW4IB.js",
         "bytes": 7493,
-        "sha256": "a49daecc07c6bf786263f58f3ec6d952de0c3d47c1392bb104fb80ba60ecabea"
+        "sha256": "7405bcda793d95a8a897b85a9ed1ddcb54ce210cbf798b7e4dfe1505de230a0c"
       },
       {
         "path": "404.html",
