@@ -1,163 +1,8 @@
 {
   "schemaVersion": 1,
-  "collectedAt": "2026-10-27T05:55:33.444Z",
+  "collectedAt": "2026-10-27T23:42:49.071Z",
   "source": "naver-public-research-web",
   "reports": [
-    {
-      "id": "naver-debenture-11464",
-      "title": "브라질 대선 결과: 룰라의 반전 승리",
-      "broker": "신한투자증권",
-      "authors": [],
-      "publishedDate": "2026-10-27",
-      "collectedAt": "2026-10-27T05:55:07.151Z",
-      "sourceUrl": "https://stock.naver.com/research/debenture/11464",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/debenture/21/20261027_debenture_41551000.pdf",
-      "topics": [
-        "금리"
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27T05:55:07.151Z",
-        "totalPages": 0,
-        "reviewedPages": "",
-        "charts": "차트 이미지 미확인",
-        "note": "PDF 파일 응답 확인 · 본문·도표 독해 대기"
-      },
-      "pdfSha256": "1df3bb8b4cc683ce8bf706e93df7845bcc734c193cd458b07154ff9efee1070d"
-    },
-    {
-      "id": "naver-debenture-11465",
-      "title": "대차잔고 축소, 장기물 강세의 다음 동력일까",
-      "broker": "iM증권",
-      "authors": [],
-      "publishedDate": "2026-10-27",
-      "collectedAt": "2026-10-27T05:55:07.151Z",
-      "sourceUrl": "https://stock.naver.com/research/debenture/11465",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/debenture/61/20261027_debenture_755756000.pdf",
-      "topics": [
-        "금리"
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27T05:55:07.151Z",
-        "totalPages": 0,
-        "reviewedPages": "",
-        "charts": "차트 이미지 미확인",
-        "note": "PDF 파일 응답 확인 · 본문·도표 독해 대기"
-      },
-      "pdfSha256": "21a851221a0b82b0d16ad265812ebed9e3d32d0d83c1b007cf92c5e48b2cfe81"
-    },
-    {
-      "id": "naver-debenture-11466",
-      "title": "Weekly Credit Monitor",
-      "broker": "신한투자증권",
-      "authors": [],
-      "publishedDate": "2026-10-27",
-      "collectedAt": "2026-10-27T05:55:07.151Z",
-      "sourceUrl": "https://stock.naver.com/research/debenture/11466",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/debenture/21/20261027_debenture_543651000.pdf",
-      "topics": [
-        "글로벌 시황·경제"
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27T05:55:07.151Z",
-        "totalPages": 0,
-        "reviewedPages": "",
-        "charts": "차트 이미지 미확인",
-        "note": "PDF 파일 응답 확인 · 본문·도표 독해 대기"
-      },
-      "pdfSha256": "0048b157a4ecfe5b945c443e25eb0dd488f25d5cbcfc21e4b9ad881e805826ac"
-    },
-    {
-      "id": "naver-debenture-11467",
-      "title": "Daily Bond Morning Brief(2026.10.27)",
-      "broker": "다올투자증권",
-      "authors": [],
-      "publishedDate": "2026-10-27",
-      "collectedAt": "2026-10-27T05:55:07.151Z",
-      "sourceUrl": "https://stock.naver.com/research/debenture/11467",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/debenture/76/20261027_debenture_15762000.pdf",
-      "topics": [
-        "금리"
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27T05:55:07.151Z",
-        "totalPages": 0,
-        "reviewedPages": "",
-        "charts": "차트 이미지 미확인",
-        "note": "PDF 파일 응답 확인 · 본문·도표 독해 대기"
-      },
-      "pdfSha256": "0ed5679cca839b0148ebf9660e43b928c8314bafd724c01eca7eca007b003fd4"
-    },
-    {
-      "id": "naver-debenture-11468",
-      "title": "Eugenes FICC Update",
-      "broker": "유진투자증권",
-      "authors": [],
-      "publishedDate": "2026-10-27",
-      "collectedAt": "2026-10-27T05:55:07.151Z",
-      "sourceUrl": "https://stock.naver.com/research/debenture/11468",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/debenture/63/20261027_debenture_883739000.pdf",
-      "topics": [
-        "금리"
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27T05:55:07.151Z",
-        "totalPages": 0,
-        "reviewedPages": "",
-        "charts": "차트 이미지 미확인",
-        "note": "PDF 파일 응답 확인 · 본문·도표 독해 대기"
-      },
-      "pdfSha256": "9547c67c61a1b2de59eaef74bd5b94d514ed7f59388cabf6169e86c43c69b1dd"
-    },
-    {
-      "id": "naver-debenture-11469",
-      "title": "채권 Daily (26.10.27)",
-      "broker": "유안타증권",
-      "authors": [],
-      "publishedDate": "2026-10-27",
-      "collectedAt": "2026-10-27T05:55:07.151Z",
-      "sourceUrl": "https://stock.naver.com/research/debenture/11469",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/debenture/18/20261027_debenture_335527000.pdf",
-      "topics": [
-        "금리",
-        "환율"
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27T05:55:07.151Z",
-        "totalPages": 0,
-        "reviewedPages": "",
-        "charts": "차트 이미지 미확인",
-        "note": "PDF 파일 응답 확인 · 본문·도표 독해 대기"
-      },
-      "pdfSha256": "939a5a6afabc5c33c39fc39b9b5609b22e0bdd2aad02953928d8861904570a8e"
-    },
-    {
-      "id": "naver-economy-13948",
-      "title": "[2027년 경제 및 금융시장 전망] Time of Tempering (PPT)",
-      "broker": "신한투자증권",
-      "authors": [],
-      "publishedDate": "2026-10-27",
-      "collectedAt": "2026-10-27T05:55:07.151Z",
-      "sourceUrl": "https://stock.naver.com/research/economy/13948",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/economy/21/20261027_economy_346531000.pdf",
-      "topics": [
-        "글로벌 시황·경제"
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27T05:55:07.151Z",
-        "totalPages": 0,
-        "reviewedPages": "",
-        "charts": "차트 이미지 미확인",
-        "note": "PDF 파일 응답 확인 · 본문·도표 독해 대기"
-      },
-      "pdfSha256": "b71f5a718130177b9d9b2c55c0b8f50cf7c4618440984a8ecc8da9520425a0fe"
-    },
     {
       "id": "naver-economy-13949",
       "title": "미국 물가경로와 소비 둔화 가능성",
@@ -166,7 +11,7 @@
         "방인성"
       ],
       "publishedDate": "2026-10-27",
-      "collectedAt": "2026-10-27T05:55:07.151Z",
+      "collectedAt": "2026-10-27T23:41:53.462Z",
       "sourceUrl": "https://stock.naver.com/research/economy/13949",
       "pdfUrl": "https://stock.pstatic.net/stock-research/economy/63/20261027_economy_979426000.pdf",
       "topics": [
@@ -178,7 +23,8 @@
         "totalPages": 12,
         "reviewedPages": "본문 PDF p.1~12 확인",
         "charts": "이미지 p.1·5·7·10·11 확인 · 나머지 도표 이미지 미확인",
-        "note": "발행 당시 논리의 요약입니다. CEIC·FRED·NY Fed 등 보고서 인용 원자료는 별도 대조하지 않았습니다. 계산 도구 미실행·결과 미판정."
+        "note": "발행 당시 논리의 요약입니다. CEIC·FRED·NY Fed 등 보고서 인용 원자료는 별도 대조하지 않았습니다. 계산 도구 미실행·결과 미판정.",
+        "analysisStatus": "complete"
       },
       "pdfSha256": "48cdfaca498335cfd80590bd21f75093afb87f2cc1765568c4d4448d97f5cd24",
       "summary": {
@@ -244,120 +90,19 @@
               "소비 총액보다 가격·물량·재원 구성을 읽어야 합니다. 결정적 재독 위치는 p.5·7·11입니다."
             ]
           }
-        ]
+        ],
+        "highlights": {
+          "global": [
+            "유진투자증권은 명목 소비 호조와 달리 실질 구매력이 약해져, 소비가 급락보다 정체에 가까울 것으로 봅니다."
+          ],
+          "commodities": [
+            "유가 상승의 소비자물가 전가가 가계 구매력과 소비를 압박할 수 있다는 전망입니다."
+          ],
+          "rates": [
+            "미국 물가 압력이 이어지면 긴축 완화가 제약될 수 있습니다. 기준금리와 장기금리는 구분해서 봐야 한다는 분석입니다."
+          ]
+        }
       }
-    },
-    {
-      "id": "naver-economy-13950",
-      "title": "재정 리스크 전염 및 K-사이클 파열음",
-      "broker": "iM증권",
-      "authors": [],
-      "publishedDate": "2026-10-27",
-      "collectedAt": "2026-10-27T05:55:07.151Z",
-      "sourceUrl": "https://stock.naver.com/research/economy/13950",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/economy/61/20261027_economy_651140000.pdf",
-      "topics": [
-        "금리"
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27T05:55:07.151Z",
-        "totalPages": 0,
-        "reviewedPages": "",
-        "charts": "차트 이미지 미확인",
-        "note": "PDF 파일 응답 확인 · 본문·도표 독해 대기"
-      },
-      "pdfSha256": "bcc0887f24df1f0042df51a8a42a8fb609a922121edf41ff71ff4386a0da2e64"
-    },
-    {
-      "id": "naver-economy-13951",
-      "title": "10/27, Kiwoom Morning Letter",
-      "broker": "키움증권",
-      "authors": [],
-      "publishedDate": "2026-10-27",
-      "collectedAt": "2026-10-27T05:55:07.151Z",
-      "sourceUrl": "https://stock.naver.com/research/economy/13951",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/economy/39/20261027_economy_132792000.pdf",
-      "topics": [
-        "글로벌 시황·경제"
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27T05:55:07.151Z",
-        "totalPages": 0,
-        "reviewedPages": "",
-        "charts": "차트 이미지 미확인",
-        "note": "PDF 파일 응답 확인 · 본문·도표 독해 대기"
-      },
-      "pdfSha256": "04c7343ef71e823c454915185c76635d431a4361192ceff3141c05c0b99e77ee"
-    },
-    {
-      "id": "naver-economy-13952",
-      "title": "2027년 경제/환율 전망, 높아진 리스크, 지속될 사이클",
-      "broker": "교보증권",
-      "authors": [],
-      "publishedDate": "2026-10-27",
-      "collectedAt": "2026-10-27T05:55:07.151Z",
-      "sourceUrl": "https://stock.naver.com/research/economy/13952",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/economy/62/20261027_economy_524738000.pdf",
-      "topics": [
-        "환율"
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27T05:55:07.151Z",
-        "totalPages": 0,
-        "reviewedPages": "",
-        "charts": "차트 이미지 미확인",
-        "note": "PDF 파일 응답 확인 · 본문·도표 독해 대기"
-      },
-      "pdfSha256": "ea1a6f1c1b8fe0ef757b0e9258878f39f329615f88a6855cf557592e0a1190da"
-    },
-    {
-      "id": "naver-economy-13953",
-      "title": "수출에서 투자로 확산된 온기",
-      "broker": "신한투자증권",
-      "authors": [],
-      "publishedDate": "2026-10-27",
-      "collectedAt": "2026-10-27T05:55:07.151Z",
-      "sourceUrl": "https://stock.naver.com/research/economy/13953",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/economy/21/20261027_economy_742317000.pdf",
-      "topics": [
-        "글로벌 시황·경제"
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27T05:55:07.151Z",
-        "totalPages": 0,
-        "reviewedPages": "",
-        "charts": "차트 이미지 미확인",
-        "note": "PDF 파일 응답 확인 · 본문·도표 독해 대기"
-      },
-      "pdfSha256": "875a45e159bc555a00166d8d89a95b927d49bf9c8ba440faa74e6ac1106ba852"
-    },
-    {
-      "id": "naver-industry-46666",
-      "title": "정유화학 Weekly - 호르무즈 다시 정체 시작",
-      "broker": "유진투자증권",
-      "authors": [
-        "황성현"
-      ],
-      "publishedDate": "2026-10-27",
-      "collectedAt": "2026-10-27T05:55:07.151Z",
-      "sourceUrl": "https://stock.naver.com/research/industry/46666",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/industry/63/20261027_industry_365569000.pdf",
-      "topics": [
-        "글로벌 시황·경제"
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27T05:55:07.151Z",
-        "totalPages": 0,
-        "reviewedPages": "",
-        "charts": "차트 이미지 미확인",
-        "note": "PDF 파일 응답 확인 · 본문·도표 독해 대기"
-      },
-      "pdfSha256": "650ccac854e9eb60703e023832115291a91c8f80aa6cc97971d5ee30b3e5b592"
     },
     {
       "id": "naver-industry-46668",
@@ -367,7 +112,7 @@
         "김소정"
       ],
       "publishedDate": "2026-10-27",
-      "collectedAt": "2026-10-27T05:55:07.151Z",
+      "collectedAt": "2026-10-27T23:41:53.462Z",
       "sourceUrl": "https://stock.naver.com/research/industry/46668",
       "pdfUrl": "https://stock.pstatic.net/stock-research/industry/63/20261027_industry_756697000.pdf",
       "topics": [
@@ -375,13 +120,89 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27T05:55:07.151Z",
-        "totalPages": 0,
-        "reviewedPages": "",
-        "charts": "차트 이미지 미확인",
-        "note": "PDF 파일 응답 확인 · 본문·도표 독해 대기"
+        "analysisStatus": "complete",
+        "checkedAt": "2026-10-27T23:28:20.901Z",
+        "totalPages": 5,
+        "reviewedPages": "PDF p.1~5 전체 확인",
+        "charts": "p.1~5 페이지 이미지·표·도표 확인",
+        "note": "p.1~5 본문·표·도표 이미지·투자의견 정의·고지 확인. 관세 효력은 정책 원문으로 확인하지 않아 저자 설명에 한정합니다. 한국철강협회·가격 원자료 외부 대조 없음. 계산 도구 미실행·결과 미판정."
       },
-      "pdfSha256": "0eb6335f581fd873ebb516116609d0f60ce616e5031ada068df5901f55e6fb0d"
+      "pdfSha256": "0eb6335f581fd873ebb516116609d0f60ce616e5031ada068df5901f55e6fb0d",
+      "summary": {
+        "text": "유진투자증권은 중국산 CGI 잠정관세 이후 수입 감소가 국내 유통가격을 지지할 것으로 봅니다. 가격약속 물량 재유입과 대체재HGI 확대는 그 효과를 제한할 수 있는 조건입니다.",
+        "highlights": {
+          "steel": [
+            "유진투자증권은 CGI 잠정관세 이후 수입 감소를 국내 가격 지지 요인으로 봅니다. 최종 조치는 보고서상 건의 단계이며 실제 시행과 구분해야 합니다.",
+            "가격약속 물량 재유입과 HGI 대체 공급이 관세 효과를 줄일 수 있습니다. 강종·규격별 실제 수입과 고객 채택을 확인할 필요가 있습니다."
+          ],
+          "commodities": [
+            "보고서의 월간 지표는 철광석·원료탄 약세와 일본 스크랩 강세가 갈립니다. 철강 원료비를 하나의 방향으로 묶기 어렵습니다."
+          ]
+        },
+        "logic": "p.1의 관찰은 잠정관세 전후 GI 수입 축소이고 해석은 저가 공급 감소에 따른 유통가격 지지입니다. 반대 경로는 가격약속 업체의 재수출과 HGI의 규격 확대·대체 공급입니다. p.2~4 가격·재고·원료비를 함께 보아 보호조치가 곧 기업 이익 증가를 뜻하지 않음을 확인합니다.",
+        "evidence": [
+          "p.1 수입량/YoY 이중축 그림과 정책 단계 표시. 비교 시점의 수요 변화도 있을 수 있어 관세의 순수 효과를 실험처럼 입증한 자료는 아닙니다.",
+          "p.2 국내가격은만원/톤, 중국가격은위안/톤, 해외가격·원료는달러/톤입니다. p.3~4 원료·스프레드·재고 및 월간/YTD 비교를 구분합니다."
+        ],
+        "limitations": [
+          "최종 판정·장관 건의와 실제 부과·가격약속 이행은 다른 단계입니다. 법적 효력을 별도 확인하지 않았습니다.",
+          "HGI의 품질 검증과 고객 채택 범위가 불확실합니다. 제조사 목록은 실제 수혜 정도나 저평가를 검증한 선별표가 아닙니다."
+        ],
+        "watch": [
+          "저자 조건: 대체재의 품질·채택 범위. AI 확인 제안: 최종 고시·가격약속 이행, 강종·두께별 수입과 국내 유통가격·원가를 대조합니다."
+        ],
+        "sections": [
+          {
+            "title": "① 읽은 자료와 중심 질문",
+            "paragraphs": [
+              "유진투자증권 김소정·2026-10-27 철강금속 Weekly5쪽을 모두 확인했습니다. CGI 반덤핑 조치가 국내 도금강판 가격을 얼마나 지지할지가 질문입니다."
+            ]
+          },
+          {
+            "title": "② 이 보고서가 바꾸려는 관점",
+            "paragraphs": [
+              "관세 부과 자체를 수혜의 종착점으로 보지 않고, 보호조치 뒤의 수입 경로와 대체재를 봅니다. p.1이 중심 논거, p.2~4가 가격·원료·재고 환경, p.5가 정의와 고지입니다."
+            ]
+          },
+          {
+            "title": "③ 저자의 논리를 처음부터 끝까지",
+            "paragraphs": [
+              "잠정관세 이후 GI 수입이 줄었다는 관찰에서 저가 공급 압력 완화와 유통가격 지지로 연결합니다. 다만 동시기의 수요 변화가 분리돼 있지 않아 감소분 전부를 관세의 인과 효과로 확정할 수는 없습니다(p.1).",
+              "가격약속 업체의 재유입과 HGI의 박물 규격 공급 확대가 기존 CGI를 대체하면 보호효과가 약해질 수 있습니다. 실제 영향은 품질과 고객 채택, 규격별 경쟁에 달려 있다는 조건입니다. 가격 지지가 생산량·마진으로 전달되려면 수요와 원료비도 함께 봐야 합니다."
+            ]
+          },
+          {
+            "title": "④ 핵심 도표와 근거가 실제로 말하는 것",
+            "paragraphs": [
+              "p.1 그림은2021년 이후 수입량(천톤,좌)과YoY(%,우)를 구분합니다. p.2는 국가별 서로 다른 통화의 가격과 중국 재고, p.3은 원료·스크랩과 고로 스프레드, p.4는 월간/YTD 변화와 철광석 항구재고·리튬 계열 가격입니다. 동일 강종·통화·기간을 맞추지 않은 가격 수준 비교는 하지 않았습니다."
+            ]
+          },
+          {
+            "title": "⑤ 추정·가치평가·투자전략은 어떻게 나왔나",
+            "paragraphs": [
+              "이 자료는 산업 해설이며 개별 기업 목표가 산식을 제공하지 않습니다. p.1 제조사 표는 제품군 구분용입니다. 낮은 배수나 업체 이름만으로 수혜·매수 시점을 확정하지 않습니다. p.5의12개월 의견 정의는 개별 종목의 검증된 목표수익을 뜻하지 않습니다."
+            ]
+          },
+          {
+            "title": "⑥ 설득력 있는 부분과 아직 넘지 못한 부분",
+            "paragraphs": [
+              "관세 경로와 우회·대체 경로를 함께 제시한 점이 설득력 있습니다. 추가 확인이 필요한 부분은 최종 조치의 법적 이행과 대체재 확대 속도이며, 업체별 마진 영향 수치는 제시되지 않았습니다."
+            ]
+          },
+          {
+            "title": "⑦ 앞으로 무엇으로 확인할 것인가",
+            "paragraphs": [
+              "저자의 품질·채택 조건과 별도로 AI는 실제 고시와 규격별 수입, 유통가격·원료비를 확인 항목으로 제안합니다. 수입 감소에도 수요·스프레드가 약해지면 이익 개선 연결은 약해집니다."
+            ]
+          },
+          {
+            "title": "⑧ 이 보고서에서 가져갈 것",
+            "paragraphs": [
+              "같은 도금강판이라도 제조 공정·규격과 수입 조건에 따라 경쟁 경로가 달라진다는 관점을 가져갑니다. 결정적 재독은p.1의HGI 조건과p.2~4 가격·원가입니다. 보유·발행참여·독립성 고지는 확인했지만 고지 자체로 가정을 검증한 것은 아닙니다."
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "naver-industry-46681",
@@ -391,7 +212,7 @@
         "김승준"
       ],
       "publishedDate": "2026-10-27",
-      "collectedAt": "2026-10-27T05:55:07.151Z",
+      "collectedAt": "2026-10-27T23:41:53.462Z",
       "sourceUrl": "https://stock.naver.com/research/industry/46681",
       "pdfUrl": "https://stock.pstatic.net/stock-research/industry/57/20261027_industry_411736000.pdf",
       "topics": [
@@ -399,21 +220,99 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27T05:55:07.151Z",
-        "totalPages": 0,
-        "reviewedPages": "",
-        "charts": "차트 이미지 미확인",
-        "note": "PDF 파일 응답 확인 · 본문·도표 독해 대기"
+        "analysisStatus": "complete",
+        "checkedAt": "2026-10-27T23:28:20.901Z",
+        "totalPages": 11,
+        "reviewedPages": "PDF p.1~11 전체 확인",
+        "charts": "p.1~11 페이지 이미지·표·도표 확인",
+        "note": "p.1~11 본문·표·도표 이미지·목표가 이력·고지 확인. 공시·정책·부동산 통계 원자료는 별도 대조하지 않았습니다. 목표가 산출 입력은 미제공, 계산 도구 미실행·목표가 결과 입력 부족. 수익률 표 사이의 기준·산식 연결은 추가 확인이 필요합니다."
       },
-      "pdfSha256": "36d8bdec63edea8569f89581e940299ae606a33df1ec918a25afb89165987b5c"
+      "pdfSha256": "36d8bdec63edea8569f89581e940299ae606a33df1ec918a25afb89165987b5c",
+      "summary": {
+        "text": "하나증권은 일부 건설사의 실적 서프라이즈를 확인하되 일회성 이익과 지속 가능한 마진을 구분합니다. 향후 분양·실제 수주와 가이던스가 유지되는지가 업황 해석의 핵심입니다.",
+        "highlights": {
+          "construction": [
+            "하나증권은 건설 실적 개선에서 일회성 정산 이익과 지속 가능한 원가·마진 개선을 구분해야 한다고 봅니다. 일부 기업의 호실적을 업종 전체 회복으로 일반화하기 어렵습니다.",
+            "수주 계획보다 실제 분양·착공과 이익 전환을 확인해야 합니다. 주택 지표의 지역별 차이와 공공 공급의 집행 속도도 함께 봐야 한다는 독해입니다."
+          ]
+        },
+        "logic": "p.1은 삼성E&A의 일회성·정산·인센티브와 계열사 수주, IPARK현대산업개발의 외주주택 마진을 나눠 설명합니다. p.2~4 주가·주택 수급, p.5 정책·현장·수주, p.6~7 성과·밸류에이션, p.8~11 의견 이력과 고지로 이어집니다. 전망의 성립 조건은 마진 지속·실제 분양/수주 및 가이던스이며, 주가 상승을 건설 물량 회복으로 대체하지 않습니다.",
+        "evidence": [
+          "p.1: 삼성E&A 실적에는 일회성 이익·준공 정산이 포함되며 IPARK 마진 지속성이 별도 조건입니다.",
+          "p.2 그림은2025.1=100 정규화 주가와 주간 수익률을 구분합니다. p.3~4는 주택 가격·수급·청약의 지역 차이이며, 한국부동산원과KB 자료는 동일 조사로 합치지 않습니다.",
+          "p.5 수주 표에는 시공사 선정과 계약금액 정정이 섞여 있어 전부 신규 계약으로 더하면 안 됩니다."
+        ],
+        "limitations": [
+          "두 기업의 실적 서프라이즈가 건설업 전체의 착공·수요 회복을 입증하지는 않습니다. 원가·마진 추정과 정책 계획의 실행은 추가 확인 사항입니다.",
+          "p.6~7 수익률 표 간 기준·산식 연결은 미확인입니다. p.8~11은 목표가 이력이며 실제 산출EPS/BPS·배수 선정 근거가 없어 목표가를 재현하지 않았습니다."
+        ],
+        "watch": [
+          "저자 조건: 후속 실적의 마진·분양·계열사 수주·가이던스. AI 확인 제안: 공공 공급은 발표→인허가→착공→진행률로, 수주는 계약 정정과 신규 계약을 나눠 확인합니다."
+        ],
+        "sections": [
+          {
+            "title": "① 읽은 자료와 중심 질문",
+            "paragraphs": [
+              "하나증권 김승준·하민호·2026-10-27 건설 Weekly11쪽 전체를 확인했습니다. 실적 발표 초반의 좋은 결과가 어느 업체·경로에서 지속될 수 있는지가 질문입니다."
+            ]
+          },
+          {
+            "title": "② 이 보고서가 바꾸려는 관점",
+            "paragraphs": [
+              "건설주 전체를 하나의 저PBR·주택 회복 주장으로 묶지 않고 업체별 실적 원인과 촉매를 나눕니다. 실적 설명에서 주택·정책·수주·가격으로 확인 범위를 넓히는 구성입니다."
+            ]
+          },
+          {
+            "title": "③ 저자의 논리를 처음부터 끝까지",
+            "paragraphs": [
+              "삼성E&A는 일회성 이익·원가 절감·준공 정산과 향후 계열사 매출 기대가 함께 작용합니다. IPARK현대산업개발은 새 현장의 높은 마진이 다음 분기에도 유지되는지와 실제 분양 성과가 핵심입니다. 실적·회사 가이던스·애널리스트 기대를 구분해야 합니다(p.1).",
+              "주가와 수급은 기대의 반응이고 실제 건설 물량은 주택 수급·분양·수주·착공의 경로를 따릅니다. p.5의 공급 확대 검토나 계약금액 변경이 곧 매출·이익 증가를 확정하지는 않습니다. 지역별 주택 지표도 동일 방향의 전국 회복으로 읽을 수 없습니다."
+            ]
+          },
+          {
+            "title": "④ 핵심 도표와 근거가 실제로 말하는 것",
+            "paragraphs": [
+              "p.2 정규화 주가와 주간 성과, p.3 한국부동산원 가격변화·수급과 개별 청약, p.4 KB 지역 지도를 각각 확인했습니다. 정규화 지수는 주가 수준이 아니며 주택 가격 상승은 착공 증가와 다른 관측입니다. p.6의Fwd12M 배수와p.7 초과수익률도 정의·기준을 맞춰야 합니다."
+            ]
+          },
+          {
+            "title": "⑤ 추정·가치평가·투자전략은 어떻게 나왔나",
+            "paragraphs": [
+              "계룡건설 추천, 중기GS건설 TOP PICK, 삼성E&A 차선호는 저자의 조건부 전략입니다. 공공 이전·데이터센터 수주 기대·실적 지속성이 각각 다른 근거입니다. p.8~11에는 목표가·의견 이력이 있으나 산출 입력이 없어 역산으로 채우지 않았습니다. 추천 기간은p.11 정의의12개월입니다."
+            ]
+          },
+          {
+            "title": "⑥ 설득력 있는 부분과 아직 넘지 못한 부분",
+            "paragraphs": [
+              "일회성과 반복 가능한 이익, 수주 목표와 분양 성과를 나눠 보는 점이 유용합니다. 반면 일부 기업 실적이 업종 전반 수요를 대표하지 않고, 정책 집행·향후 수주·배당은 가정입니다. 수익률 표의 기준 연결도 재확인해야 합니다."
+            ]
+          },
+          {
+            "title": "⑦ 앞으로 무엇으로 확인할 것인가",
+            "paragraphs": [
+              "저자의 조건은 다음 실적·가이던스와 분양/수주입니다. AI는 실제 착공·공정과 계약 정정 여부, 원가·현금흐름의 연결을 확인 항목으로 제안합니다. 일회성이 사라진 뒤 마진이 약해지면 실적 지속성 주장이 약해집니다."
+            ]
+          },
+          {
+            "title": "⑧ 이 보고서에서 가져갈 것",
+            "paragraphs": [
+              "실적 호조를 경기 회복으로 곧장 바꾸지 않고 회사별 원인과 실제 활동으로 연결하는 관점을 가져갑니다. 재독 위치는p.1 실적 원인과p.5 계약·정책 단계입니다. p.11의보유·독립성·추천 분포 고지는 확인했으나 이해상충 부재를 독립 검증한 것은 아닙니다."
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "naver-invest-40593",
       "title": "10/27 달러, FOMC 앞두고 강보합",
       "broker": "키움증권",
-      "authors": [],
+      "authors": [
+        "김유미",
+        "안예하",
+        "심수빈"
+      ],
       "publishedDate": "2026-10-27",
-      "collectedAt": "2026-10-27T05:55:07.151Z",
+      "collectedAt": "2026-10-27T23:41:53.462Z",
       "sourceUrl": "https://stock.naver.com/research/invest/40593",
       "pdfUrl": "https://stock.pstatic.net/stock-research/invest/39/20261027_invest_422514000.pdf",
       "topics": [
@@ -423,201 +322,105 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27T05:55:07.151Z",
-        "totalPages": 0,
-        "reviewedPages": "",
-        "charts": "차트 이미지 미확인",
-        "note": "PDF 파일 응답 확인 · 본문·도표 독해 대기"
+        "checkedAt": "2026-10-27T23:28:20.901Z",
+        "totalPages": 5,
+        "reviewedPages": "PDF p.1~5 전체 확인",
+        "charts": "p.1~5 페이지 이미지·표·도표 확인",
+        "note": "p.1~5 본문·표·도표 이미지·고지 확인. Bloomberg·정책/입찰 원자료는 외부 대조하지 않았습니다. AI 추가 대조 계산은Node로(4.988-4.067)=0.921%p 실행. 결과 미판정(도표의 정확한 대조값 없음). p.5 금리차 부호 정의는 추가 확인 사항입니다.",
+        "analysisStatus": "complete"
       },
-      "pdfSha256": "8d8058503b4da8eb67c5ea7e7127fe6fbb9b74406a8e155dcce3625c35f3666f"
-    },
-    {
-      "id": "naver-invest-40594",
-      "title": "뉴 ETF 라인 업 : 국내 시총Top5+채권, 美 AI플랫폼, 스페이스X 밸류체인 등 ETF 3종 상장",
-      "broker": "키움증권",
-      "authors": [],
-      "publishedDate": "2026-10-27",
-      "collectedAt": "2026-10-27T05:55:07.151Z",
-      "sourceUrl": "https://stock.naver.com/research/invest/40594",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/invest/39/20261027_invest_285425000.pdf",
-      "topics": [
-        "글로벌 시황·경제"
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27T05:55:07.151Z",
-        "totalPages": 0,
-        "reviewedPages": "",
-        "charts": "차트 이미지 미확인",
-        "note": "PDF 파일 응답 확인 · 본문·도표 독해 대기"
-      },
-      "pdfSha256": "78bc9397dafe5ebc3d824a56fcf8a718e1f53969b01d13f5fd5fda10f1f78c52"
-    },
-    {
-      "id": "naver-invest-40595",
-      "title": "10/27, 상승과 하락의 반복, 방향성 부재 국면에서 시장이 주목하고 있는 것들",
-      "broker": "키움증권",
-      "authors": [],
-      "publishedDate": "2026-10-27",
-      "collectedAt": "2026-10-27T05:55:07.151Z",
-      "sourceUrl": "https://stock.naver.com/research/invest/40595",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/invest/39/20261027_invest_819698000.pdf",
-      "topics": [
-        "금리",
-        "환율"
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27T05:55:07.151Z",
-        "totalPages": 0,
-        "reviewedPages": "",
-        "charts": "차트 이미지 미확인",
-        "note": "PDF 파일 응답 확인 · 본문·도표 독해 대기"
-      },
-      "pdfSha256": "5633452486d05b64666169f672b8e5fa917897cd3ff4a47c12c3b4e293fd2670"
-    },
-    {
-      "id": "naver-invest-40596",
-      "title": "27년 시장 전망: 디커플링, 미국에는 있고 한국에는 없는 것",
-      "broker": "iM증권",
-      "authors": [],
-      "publishedDate": "2026-10-27",
-      "collectedAt": "2026-10-27T05:55:07.151Z",
-      "sourceUrl": "https://stock.naver.com/research/invest/40596",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/invest/61/20261027_invest_150685000.pdf",
-      "topics": [
-        "금리"
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27T05:55:07.151Z",
-        "totalPages": 0,
-        "reviewedPages": "",
-        "charts": "차트 이미지 미확인",
-        "note": "PDF 파일 응답 확인 · 본문·도표 독해 대기"
-      },
-      "pdfSha256": "15dd6325e481de81d5f40eb3a4141475d3d51db726233679c8365e87decb5182"
-    },
-    {
-      "id": "naver-invest-40597",
-      "title": "Weekly Theme Rotation(26.10.27)",
-      "broker": "유진투자증권",
-      "authors": [],
-      "publishedDate": "2026-10-27",
-      "collectedAt": "2026-10-27T05:55:07.151Z",
-      "sourceUrl": "https://stock.naver.com/research/invest/40597",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/invest/63/20261027_invest_648130000.pdf",
-      "topics": [
-        "글로벌 시황·경제"
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27T05:55:07.151Z",
-        "totalPages": 0,
-        "reviewedPages": "",
-        "charts": "차트 이미지 미확인",
-        "note": "PDF 파일 응답 확인 · 본문·도표 독해 대기"
-      },
-      "pdfSha256": "e4d5fc15c4ee52353ec90df665822d3b62d05cf307aa21cb03500d04436c0cdb"
-    },
-    {
-      "id": "naver-invest-40598",
-      "title": "폭주하는 일론 머스크: 안타깝지만 미친 짓은 계속된다",
-      "broker": "iM증권",
-      "authors": [],
-      "publishedDate": "2026-10-27",
-      "collectedAt": "2026-10-27T05:55:07.151Z",
-      "sourceUrl": "https://stock.naver.com/research/invest/40598",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/invest/61/20261027_invest_214351000.pdf",
-      "topics": [
-        "금리"
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27T05:55:07.151Z",
-        "totalPages": 0,
-        "reviewedPages": "",
-        "charts": "차트 이미지 미확인",
-        "note": "PDF 파일 응답 확인 · 본문·도표 독해 대기"
-      },
-      "pdfSha256": "af8a9ed13e114f86816550093caae2ba10229a096c3b96bae19e726bfc8eefa9"
-    },
-    {
-      "id": "naver-invest-40599",
-      "title": "[IBKS Daily] Start with IBKS(2026.10.27) 앤트로픽 상장신고서 제출 소식에 뉴욕증시 상승",
-      "broker": "IBK투자증권",
-      "authors": [],
-      "publishedDate": "2026-10-27",
-      "collectedAt": "2026-10-27T05:55:07.151Z",
-      "sourceUrl": "https://stock.naver.com/research/invest/40599",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/invest/40/20261027_invest_633419000.pdf",
-      "topics": [
-        "금리",
-        "원자재"
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27T05:55:07.151Z",
-        "totalPages": 0,
-        "reviewedPages": "",
-        "charts": "차트 이미지 미확인",
-        "note": "PDF 파일 응답 확인 · 본문·도표 독해 대기"
-      },
-      "pdfSha256": "83660fff965ed95ccb24d8734244bb89c328cdfc78325b87d1ee7ebe9a21fb6c"
-    },
-    {
-      "id": "naver-invest-40600",
-      "title": "[전략 COMMENT] 버블은 수요가 먼저 꺼지면서 종료되었다",
-      "broker": "SK증권",
-      "authors": [],
-      "publishedDate": "2026-10-27",
-      "collectedAt": "2026-10-27T05:55:07.151Z",
-      "sourceUrl": "https://stock.naver.com/research/invest/40600",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/invest/64/20261027_invest_258751000.pdf",
-      "topics": [
-        "금리"
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27T05:55:07.151Z",
-        "totalPages": 0,
-        "reviewedPages": "",
-        "charts": "차트 이미지 미확인",
-        "note": "PDF 파일 응답 확인 · 본문·도표 독해 대기"
-      },
-      "pdfSha256": "67c991ddf1c2ee7881b594c2006aa6c77301ddf12230223c808edd5eacca28ad"
-    },
-    {
-      "id": "naver-invest-40601",
-      "title": "주요 이벤트 앞두고 관망세, 수급 공백 속 KOSPI 5,500 선 하회",
-      "broker": "대신증권",
-      "authors": [],
-      "publishedDate": "2026-10-27",
-      "collectedAt": "2026-10-27T05:55:07.151Z",
-      "sourceUrl": "https://stock.naver.com/research/invest/40601",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/invest/15/20261027_invest_571759000.pdf",
-      "topics": [
-        "금리",
-        "환율",
-        "원자재"
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27T05:55:07.151Z",
-        "totalPages": 0,
-        "reviewedPages": "",
-        "charts": "차트 이미지 미확인",
-        "note": "PDF 파일 응답 확인 · 본문·도표 독해 대기"
-      },
-      "pdfSha256": "c6245e69c8133210c782babcafb345f612ae46d1a2c425aee2aab057e4a79039"
+      "pdfSha256": "8d8058503b4da8eb67c5ea7e7127fe6fbb9b74406a8e155dcce3625c35f3666f",
+      "summary": {
+        "text": "키움증권은 미국 지표의 견조함과 유로·엔 약세가 달러를 지지했다고 해석합니다. 유가 하락과 안전자산 선호는 장기금리를 낮췄지만, 미국 단기금리는 입찰 수요 약화로 올랐다는 설명입니다.",
+        "highlights": {
+          "global": [
+            "키움증권은 미국 지표의 견조함과 유럽 성장 우려가 달러 강세를 지지했다고 해석합니다. 국가별 경기 차이를 함께 볼 필요가 있습니다."
+          ],
+          "fx": [
+            "키움증권은 FOMC를 앞둔 추가 긴축 기대와 유로·엔 약세가 달러를 지지했다고 봅니다. 당일 움직임과 중기 환율 전망은 구분해야 합니다."
+          ],
+          "commodities": [
+            "중동 긴장 완화 기대가 유가를 낮췄지만 공급 불확실성은 남아 있다는 분석입니다. 단기 하락을 공급 위험 해소로 단정하기 어렵습니다."
+          ],
+          "rates": [
+            "전일 시장금리는 한국·일본10년물 하락, 미국2년물 상승·10년물 하락으로 갈렸다는 집계입니다. 정책금리 결정과 시장금리 움직임을 구분해서 봐야 합니다."
+          ]
+        },
+        "logic": "p.1에서 미국 경기 회복력·추가 긴축 기대와 유로존 성장 우려는 달러 강세로, 중동 외교 기대는 유가 하락으로 연결됩니다. 한국 국채는 외국인 선물 매수·안전선호, 미국 단기물은 입찰 수요 약화, 장기물은 유가와 위험선호의 상쇄로 구분합니다. 같은 날 자산 가격도 단일 원인으로 움직이지 않는다는 독해입니다.",
+        "evidence": [
+          "p.1은 현물환·NDF, 상품 종가, 만기별 국채금리와 전일/주간 변동을 구분합니다. p.2의5일 및 연간 그림은 서로 다른 시간 범위입니다.",
+          "p.3~4 원자재·ETF·포지션과 p.5 금리·스프레드는 동행 비교용입니다. 이중축 그림만으로 인과나 미래 수익을 확인한 것은 아닙니다."
+        ],
+        "limitations": [
+          "단일 일간 자료는 특정 뉴스의 순수 효과를 분리하지 못합니다. 보고서가 인용한 기사·경제지표·입찰 결과를 원자료와 독립 대조하지 않았습니다.",
+          "p.5의 미국-한국10년 금리차 표기와 우축 음수 방향은 p.1 표의 미국4.988%·한국4.067%와 정의 연결을 재확인해야 합니다. 천연가스도 표와 도표의 단위가 달라 직접 대조하지 않습니다."
+        ],
+        "watch": [
+          "AI 확인 제안: FOMC 실제 결정·문구, 미국 입찰 수요, 외국인 국채선물 수급과 중동 공급·운송 상황을 구분해 확인합니다."
+        ],
+        "sections": [
+          {
+            "title": "① 읽은 자료와 중심 질문",
+            "paragraphs": [
+              "키움증권 FICC DAILY·2026-10-27, 김유미·안예하·심수빈. 본문·표·도표와 고지를5쪽 모두 확인했습니다. 달러·유가·채권이 서로 다르게 움직인 이유가 중심 질문입니다."
+            ]
+          },
+          {
+            "title": "② 이 보고서가 바꾸려는 관점",
+            "paragraphs": [
+              "달러 상승을 한 가지 정책 발언으로, 국채 금리를 한 방향의 긴축 판단으로 단순화하지 않습니다. 경기의 상대 차이·원유 공급 기대·입찰 수요를 나눠 설명합니다(p.1)."
+            ]
+          },
+          {
+            "title": "③ 저자의 논리를 처음부터 끝까지",
+            "paragraphs": [
+              "미국의 견조한 지표와 상대적인 유럽 성장 우려가 달러 수요를 지지하고, 연준의 당장 동결 기대와 이후 추가 인상 기대는 동시에 존재합니다. 현재 기대를 확정된 결정으로 취급하면 안 됩니다(p.1).",
+              "중동 외교 기대는 유가를 낮추지만 공급 불확실성은 낙폭을 제한합니다. 장기채에는 물가 기대 완화가 작용할 수 있으나 증시 강세가 안전선호를 약화하고, 단기채에는 입찰 수요가 따로 작용했다는 연결입니다. 한국 채권의 외국인 선물 수급도 별도 경로입니다."
+            ]
+          },
+          {
+            "title": "④ 핵심 도표와 근거가 실제로 말하는 것",
+            "paragraphs": [
+              "p.2는 통화별5일/연간 가격, p.3은 원자재 지수·가격, p.4는 포지션과 ETF, p.5는 만기·국가별 금리와 차이를 보여줍니다. 좌우축과 원월물-근월물 부호를 확인했습니다. 지수 수준·선물 포지션·ETF 수익률은 같은 변수가 아니며, 선의 동행이 독립적인 인과 증거를 늘리지 않습니다."
+            ]
+          },
+          {
+            "title": "⑤ 추정·가치평가·투자전략은 어떻게 나왔나",
+            "paragraphs": [
+              "핵심은 전일 시장 해설이며 기업 목표가 산출 보고서가 아닙니다. ETF 표도 성과 관측 목록이지 선정·매매 전략의 검증은 아닙니다. AI는p.1 한미10년 금리 차만Node로0.921%p 계산했고 p.5 그림 부호의 정의는 미확인으로 남겼습니다."
+            ]
+          },
+          {
+            "title": "⑥ 설득력 있는 부분과 아직 넘지 못한 부분",
+            "paragraphs": [
+              "미국의 단기·장기 금리와 한국의 선물 수급을 분리하는 설명이 유용합니다. 다만 같은 날 여러 뉴스가 겹치므로 각 요인의 기여도를 수치로 단정할 수 없습니다. p.5 부호·천연가스 단위 문제의 영향은 해당 비교에 한정합니다."
+            ]
+          },
+          {
+            "title": "⑦ 앞으로 무엇으로 확인할 것인가",
+            "paragraphs": [
+              "AI 제안은 정책 예상과 실제 발표, 외국인 수급 지속성, 원유 공급 경로를 따로 추적하는 것입니다. 외교 기대만 바뀌고 공급 차질이 지속되면 유가 안정 해석이 약해질 수 있습니다."
+            ]
+          },
+          {
+            "title": "⑧ 이 보고서에서 가져갈 것",
+            "paragraphs": [
+              "관측값과 저자의 원인 해석을 구분하고 자산·만기별 상쇄를 읽는 관점을 가져갑니다. 재독 위치는p.1 해설과p.5 금리차 패널입니다. 고지는 사전 제공·외부 압력 및 자료 정확성 한계를 명시합니다."
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "naver-invest-40602",
       "title": "주간 금리·환율 전망",
       "broker": "대신증권",
-      "authors": [],
+      "authors": [
+        "공동락",
+        "이정훈"
+      ],
       "publishedDate": "2026-10-27",
-      "collectedAt": "2026-10-27T05:55:07.151Z",
+      "collectedAt": "2026-10-27T23:41:53.462Z",
       "sourceUrl": "https://stock.naver.com/research/invest/40602",
       "pdfUrl": "https://stock.pstatic.net/stock-research/invest/15/20261027_invest_25765000.pdf",
       "topics": [
@@ -626,993 +429,88 @@
       ],
       "verification": {
         "status": "verified",
-        "checkedAt": "2026-10-27T05:55:07.151Z",
-        "totalPages": 0,
-        "reviewedPages": "",
-        "charts": "차트 이미지 미확인",
-        "note": "PDF 파일 응답 확인 · 본문·도표 독해 대기"
+        "checkedAt": "2026-10-27T23:28:20.901Z",
+        "totalPages": 2,
+        "reviewedPages": "PDF p.1~2 전체 확인",
+        "charts": "p.1~2 페이지 이미지·표·도표 확인",
+        "note": "본문 표지는2026-10-26, 네이버 게시일은2026-10-27입니다. 작성 당시 전망이며 정책 원문·컨센서스를 외부 대조하지 않았습니다. F1Q~F4Q의 구체적 달력 대응은 미확인. 계산 도구 미실행·결과 미판정.",
+        "analysisStatus": "complete"
       },
-      "pdfSha256": "ab0ec0bf487aa41921ff9258abf59ee99073f1eb4e1b6eb6642f02c402ce9773"
-    },
-    {
-      "id": "naver-invest-40603",
-      "title": "[Global ETF] ETF 트렌드 & 포트폴리오: 금리보다 실적, 성장보다 현금",
-      "broker": "하나증권",
-      "authors": [],
-      "publishedDate": "2026-10-27",
-      "collectedAt": "2026-10-27T05:55:07.151Z",
-      "sourceUrl": "https://stock.naver.com/research/invest/40603",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/invest/57/20261027_invest_29643000.pdf",
-      "topics": [
-        "금리",
-        "환율"
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27T05:55:07.151Z",
-        "totalPages": 0,
-        "reviewedPages": "",
-        "charts": "차트 이미지 미확인",
-        "note": "PDF 파일 응답 확인 · 본문·도표 독해 대기"
-      },
-      "pdfSha256": "485f154f4d4574ea0cf91edbf79a2f58e86eddb98fad28e6f981f5279ea55f4f"
-    },
-    {
-      "id": "naver-invest-40604",
-      "title": "ETF Catch-up KRICS 도입에 따른 KRX 주요 지수 방법론 개정 (2)",
-      "broker": "하나증권",
-      "authors": [],
-      "publishedDate": "2026-10-27",
-      "collectedAt": "2026-10-27T05:55:07.151Z",
-      "sourceUrl": "https://stock.naver.com/research/invest/40604",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/invest/57/20261027_invest_387973000.pdf",
-      "topics": [
-        "원자재"
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27T05:55:07.151Z",
-        "totalPages": 0,
-        "reviewedPages": "",
-        "charts": "차트 이미지 미확인",
-        "note": "PDF 파일 응답 확인 · 본문·도표 독해 대기"
-      },
-      "pdfSha256": "e203a8a2241db6d16ea15cf2c847946f5104c1d77c9c30c08c4022564fca491a"
-    },
-    {
-      "id": "naver-invest-40605",
-      "title": "ETF Strategy - 원유 선물 백워데이션, 금(Gold) 투자",
-      "broker": "유진투자증권",
-      "authors": [],
-      "publishedDate": "2026-10-27",
-      "collectedAt": "2026-10-27T05:55:07.151Z",
-      "sourceUrl": "https://stock.naver.com/research/invest/40605",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/invest/63/20261027_invest_130208000.pdf",
-      "topics": [
-        "원자재"
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27T05:55:07.151Z",
-        "totalPages": 0,
-        "reviewedPages": "",
-        "charts": "차트 이미지 미확인",
-        "note": "PDF 파일 응답 확인 · 본문·도표 독해 대기"
-      },
-      "pdfSha256": "016c344d556ff4b596a93c89d0200909f259b0ec4bee210067bc6532dcbbc42c"
-    },
-    {
-      "id": "naver-debenture-11455",
-      "title": "Daily Bond Morning Brief(2026.10.23)",
-      "broker": "다올투자증권",
-      "authors": [],
-      "publishedDate": "2026-10-26",
-      "collectedAt": "2026-10-27T05:55:07.151Z",
-      "sourceUrl": "https://stock.naver.com/research/debenture/11455",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/debenture/76/20261026_debenture_669110000.pdf",
-      "topics": [
-        "금리"
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27T05:55:07.151Z",
-        "totalPages": 0,
-        "reviewedPages": "",
-        "charts": "차트 이미지 미확인",
-        "note": "PDF 파일 응답 확인 · 본문·도표 독해 대기"
-      },
-      "pdfSha256": "e3fa67009aeab6cb0091c1760b0a15411a4de8d2fcc79bd07bd7934d626f376a"
-    },
-    {
-      "id": "naver-debenture-11456",
-      "title": "Daily Bond Morning Brief(2026.10.26)",
-      "broker": "다올투자증권",
-      "authors": [],
-      "publishedDate": "2026-10-26",
-      "collectedAt": "2026-10-27T05:55:07.151Z",
-      "sourceUrl": "https://stock.naver.com/research/debenture/11456",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/debenture/76/20261026_debenture_690496000.pdf",
-      "topics": [
-        "금리"
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27T05:55:07.151Z",
-        "totalPages": 0,
-        "reviewedPages": "",
-        "charts": "차트 이미지 미확인",
-        "note": "PDF 파일 응답 확인 · 본문·도표 독해 대기"
-      },
-      "pdfSha256": "dcffa6961454a014fcc5e4f984b7b0418ebe37eba0ac42045f13a1be1709de31"
-    },
-    {
-      "id": "naver-debenture-11457",
-      "title": "고(高)금리? 고(苦)금리!",
-      "broker": "대신증권",
-      "authors": [],
-      "publishedDate": "2026-10-26",
-      "collectedAt": "2026-10-27T05:55:07.151Z",
-      "sourceUrl": "https://stock.naver.com/research/debenture/11457",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/debenture/15/20261026_debenture_316091000.pdf",
-      "topics": [
-        "금리"
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27T05:55:07.151Z",
-        "totalPages": 0,
-        "reviewedPages": "",
-        "charts": "차트 이미지 미확인",
-        "note": "PDF 파일 응답 확인 · 본문·도표 독해 대기"
-      },
-      "pdfSha256": "b2fdf89ca39195c460027333e8ad87229e282badefe0d2daa4dfc664d259ce18"
-    },
-    {
-      "id": "naver-debenture-11458",
-      "title": "元大金利: 금리 급등락은 이어진다",
-      "broker": "유안타증권",
-      "authors": [],
-      "publishedDate": "2026-10-26",
-      "collectedAt": "2026-10-27T05:55:07.151Z",
-      "sourceUrl": "https://stock.naver.com/research/debenture/11458",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/debenture/18/20261026_debenture_595067000.pdf",
-      "topics": [
-        "금리"
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27T05:55:07.151Z",
-        "totalPages": 0,
-        "reviewedPages": "",
-        "charts": "차트 이미지 미확인",
-        "note": "PDF 파일 응답 확인 · 본문·도표 독해 대기"
-      },
-      "pdfSha256": "113b13396c24a28abf33ce26773e01aa85705157dab1ea7f232cbae7f9c5fde2"
-    },
-    {
-      "id": "naver-debenture-11459",
-      "title": "채권 Daily (2026.10.26)",
-      "broker": "유안타증권",
-      "authors": [],
-      "publishedDate": "2026-10-26",
-      "collectedAt": "2026-10-27T05:55:07.151Z",
-      "sourceUrl": "https://stock.naver.com/research/debenture/11459",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/debenture/18/20261026_debenture_158475000.pdf",
-      "topics": [
-        "금리",
-        "환율"
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27T05:55:07.151Z",
-        "totalPages": 0,
-        "reviewedPages": "",
-        "charts": "차트 이미지 미확인",
-        "note": "PDF 파일 응답 확인 · 본문·도표 독해 대기"
-      },
-      "pdfSha256": "164ddeda161e6345ad4529dee6fa3b0649ea33a868b59d37eb354b7bee1dd5e3"
-    },
-    {
-      "id": "naver-debenture-11460",
-      "title": "브라질 대선 코멘트",
-      "broker": "하나증권",
-      "authors": [],
-      "publishedDate": "2026-10-26",
-      "collectedAt": "2026-10-27T05:55:07.151Z",
-      "sourceUrl": "https://stock.naver.com/research/debenture/11460",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/debenture/57/20261026_debenture_886242000.pdf",
-      "topics": [
-        "글로벌 시황·경제"
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27T05:55:07.151Z",
-        "totalPages": 0,
-        "reviewedPages": "",
-        "charts": "차트 이미지 미확인",
-        "note": "PDF 파일 응답 확인 · 본문·도표 독해 대기"
-      },
-      "pdfSha256": "bbe75fdfc8c9303a8db55de5124a2cc72828f80d957f9cfa804b9920bf20e0d5"
-    },
-    {
-      "id": "naver-debenture-11461",
-      "title": "미국 중간선거 이후 금리 (feat. 분점정부)",
-      "broker": "하나증권",
-      "authors": [],
-      "publishedDate": "2026-10-26",
-      "collectedAt": "2026-10-27T05:55:07.151Z",
-      "sourceUrl": "https://stock.naver.com/research/debenture/11461",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/debenture/57/20261026_debenture_12565000.pdf",
-      "topics": [
-        "금리"
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27T05:55:07.151Z",
-        "totalPages": 0,
-        "reviewedPages": "",
-        "charts": "차트 이미지 미확인",
-        "note": "PDF 파일 응답 확인 · 본문·도표 독해 대기"
-      },
-      "pdfSha256": "9c8dc4975eaf1da43889496d4101ae20d6fa2ea2a98f2cf215d2f8dd3848c856"
-    },
-    {
-      "id": "naver-debenture-11462",
-      "title": "2027년 채권시장 전망: The Long Ridge - 짧은 오르막, 긴 능선",
-      "broker": "교보증권",
-      "authors": [],
-      "publishedDate": "2026-10-26",
-      "collectedAt": "2026-10-27T05:55:07.151Z",
-      "sourceUrl": "https://stock.naver.com/research/debenture/11462",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/debenture/62/20261026_debenture_744008000.pdf",
-      "topics": [
-        "금리"
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27T05:55:07.151Z",
-        "totalPages": 0,
-        "reviewedPages": "",
-        "charts": "차트 이미지 미확인",
-        "note": "PDF 파일 응답 확인 · 본문·도표 독해 대기"
-      },
-      "pdfSha256": "34a467bce4f05beca8fe38584102955b3f48cf7997543e3778e6fd7d98e88292"
-    },
-    {
-      "id": "naver-debenture-11463",
-      "title": "[FI 2027년 전망] 불안한 지루함",
-      "broker": "한화투자증권",
-      "authors": [],
-      "publishedDate": "2026-10-26",
-      "collectedAt": "2026-10-27T05:55:07.151Z",
-      "sourceUrl": "https://stock.naver.com/research/debenture/11463",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/debenture/16/20261026_debenture_287815000.pdf",
-      "topics": [
-        "금리"
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27T05:55:07.151Z",
-        "totalPages": 0,
-        "reviewedPages": "",
-        "charts": "차트 이미지 미확인",
-        "note": "PDF 파일 응답 확인 · 본문·도표 독해 대기"
-      },
-      "pdfSha256": "b419bb8b5b7e88dfcce0b44b9ba1e63db8c92e52aee74b54f8ab0c641d010d68"
-    },
-    {
-      "id": "naver-economy-13941",
-      "title": "신한 FX Check-up",
-      "broker": "신한투자증권",
-      "authors": [],
-      "publishedDate": "2026-10-26",
-      "collectedAt": "2026-10-27T05:55:07.151Z",
-      "sourceUrl": "https://stock.naver.com/research/economy/13941",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/economy/21/20261026_economy_285041000.pdf",
-      "topics": [
-        "금리",
-        "환율"
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27T05:55:07.151Z",
-        "totalPages": 0,
-        "reviewedPages": "",
-        "charts": "차트 이미지 미확인",
-        "note": "PDF 파일 응답 확인 · 본문·도표 독해 대기"
-      },
-      "pdfSha256": "0e7aa203582ce8b93c3d5e42170868763573a2d8e031c5918512d45a44bde4a3"
-    },
-    {
-      "id": "naver-economy-13942",
-      "title": "신한 Econ Check-up",
-      "broker": "신한투자증권",
-      "authors": [],
-      "publishedDate": "2026-10-26",
-      "collectedAt": "2026-10-27T05:55:07.151Z",
-      "sourceUrl": "https://stock.naver.com/research/economy/13942",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/economy/21/20261026_economy_838847000.pdf",
-      "topics": [
-        "금리",
-        "원자재"
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27T05:55:07.151Z",
-        "totalPages": 0,
-        "reviewedPages": "",
-        "charts": "차트 이미지 미확인",
-        "note": "PDF 파일 응답 확인 · 본문·도표 독해 대기"
-      },
-      "pdfSha256": "8472ea1f0db48e1a91331ac019cda84eab64c42cc5ba50ee70255c163d7b526d"
-    },
-    {
-      "id": "naver-economy-13943",
-      "title": "장대한 분노, 악재의 정점이 될까?",
-      "broker": "iM증권",
-      "authors": [],
-      "publishedDate": "2026-10-26",
-      "collectedAt": "2026-10-27T05:55:07.151Z",
-      "sourceUrl": "https://stock.naver.com/research/economy/13943",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/economy/61/20261026_economy_258020000.pdf",
-      "topics": [
-        "환율",
-        "원자재"
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27T05:55:07.151Z",
-        "totalPages": 0,
-        "reviewedPages": "",
-        "charts": "차트 이미지 미확인",
-        "note": "PDF 파일 응답 확인 · 본문·도표 독해 대기"
-      },
-      "pdfSha256": "1a4b006b1b5fc98ea79db33adb9ee4e994f6722983c9dbba53ce90f248202135"
-    },
-    {
-      "id": "naver-economy-13944",
-      "title": "악재에도 1,300원으로 향하는 달러-원",
-      "broker": "iM증권",
-      "authors": [],
-      "publishedDate": "2026-10-26",
-      "collectedAt": "2026-10-27T05:55:07.151Z",
-      "sourceUrl": "https://stock.naver.com/research/economy/13944",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/economy/61/20261026_economy_629181000.pdf",
-      "topics": [
-        "금리",
-        "환율"
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27T05:55:07.151Z",
-        "totalPages": 0,
-        "reviewedPages": "",
-        "charts": "차트 이미지 미확인",
-        "note": "PDF 파일 응답 확인 · 본문·도표 독해 대기"
-      },
-      "pdfSha256": "285c15f5122454a508c41a8917a96c6d2e165245118d48bc48e8f16797435909"
-    },
-    {
-      "id": "naver-economy-13945",
-      "title": "10/26, Kiwoom Morning Letter",
-      "broker": "키움증권",
-      "authors": [],
-      "publishedDate": "2026-10-26",
-      "collectedAt": "2026-10-27T05:55:07.151Z",
-      "sourceUrl": "https://stock.naver.com/research/economy/13945",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/economy/39/20261026_economy_394448000.pdf",
-      "topics": [
-        "글로벌 시황·경제"
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27T05:55:07.151Z",
-        "totalPages": 0,
-        "reviewedPages": "",
-        "charts": "차트 이미지 미확인",
-        "note": "PDF 파일 응답 확인 · 본문·도표 독해 대기"
-      },
-      "pdfSha256": "2dd7cf51982c1264542d141d7a980a118a4a5d36d4cb2f3b37772aee887c8ebb"
-    },
-    {
-      "id": "naver-economy-13946",
-      "title": "후반전을 향해",
-      "broker": "대신증권",
-      "authors": [],
-      "publishedDate": "2026-10-26",
-      "collectedAt": "2026-10-27T05:55:07.151Z",
-      "sourceUrl": "https://stock.naver.com/research/economy/13946",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/economy/15/20261026_economy_561147000.pdf",
-      "topics": [
-        "금리"
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27T05:55:07.151Z",
-        "totalPages": 0,
-        "reviewedPages": "",
-        "charts": "차트 이미지 미확인",
-        "note": "PDF 파일 응답 확인 · 본문·도표 독해 대기"
-      },
-      "pdfSha256": "9f35492fb358abfa6712a00636af23bf3381940e89e73670bca59ea1b9d1f28e"
-    },
-    {
-      "id": "naver-economy-13947",
-      "title": "[2027년 경제 및 외환시장 전망] 높아지는 문턱",
-      "broker": "한화투자증권",
-      "authors": [],
-      "publishedDate": "2026-10-26",
-      "collectedAt": "2026-10-27T05:55:07.151Z",
-      "sourceUrl": "https://stock.naver.com/research/economy/13947",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/economy/16/20261026_economy_723377000.pdf",
-      "topics": [
-        "금리",
-        "환율",
-        "원자재"
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27T05:55:07.151Z",
-        "totalPages": 0,
-        "reviewedPages": "",
-        "charts": "차트 이미지 미확인",
-        "note": "PDF 파일 응답 확인 · 본문·도표 독해 대기"
-      },
-      "pdfSha256": "a08580100c46b396d44f3afa057653d3daa8898070a530d42b905960b8265790"
-    },
-    {
-      "id": "naver-industry-46615",
-      "title": "신한 자동차/철강금속 Weekly (2026.10.23)",
-      "broker": "신한투자증권",
-      "authors": [
-        "박광래"
-      ],
-      "publishedDate": "2026-10-26",
-      "collectedAt": "2026-10-27T05:55:07.151Z",
-      "sourceUrl": "https://stock.naver.com/research/industry/46615",
-      "topics": [
-        "원자재",
-        "철강"
-      ],
-      "verification": {
-        "status": "failed",
-        "checkedAt": "2026-10-27T05:55:07.151Z",
-        "totalPages": 0,
-        "reviewedPages": "",
-        "charts": "차트 이미지 미확인",
-        "note": "허용된 PDF 원문 주소를 확인할 수 없습니다."
-      }
-    },
-    {
-      "id": "naver-industry-46617",
-      "title": "기름뿜뿜 Weekly: 미국산 LNG 장기구매에 나선 카타르, 그 이례적 행보의 시사점",
-      "broker": "iM증권",
-      "authors": [
-        "전유진"
-      ],
-      "publishedDate": "2026-10-26",
-      "collectedAt": "2026-10-27T05:55:07.151Z",
-      "sourceUrl": "https://stock.naver.com/research/industry/46617",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/industry/61/20261026_industry_604906000.pdf",
-      "topics": [
-        "환율",
-        "원자재"
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27T05:55:07.151Z",
-        "totalPages": 0,
-        "reviewedPages": "",
-        "charts": "차트 이미지 미확인",
-        "note": "PDF 파일 응답 확인 · 본문·도표 독해 대기"
-      },
-      "pdfSha256": "89fcde2ed1087613ed0b883b13db4f7e029850c09090cc4004e3ce6894ed094e"
-    },
-    {
-      "id": "naver-industry-46620",
-      "title": "Steel Weekly (10월 4주차)",
-      "broker": "iM증권",
-      "authors": [
-        "김윤상"
-      ],
-      "publishedDate": "2026-10-26",
-      "collectedAt": "2026-10-27T05:55:07.151Z",
-      "sourceUrl": "https://stock.naver.com/research/industry/46620",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/industry/61/20261026_industry_431468000.pdf",
-      "topics": [
-        "금리",
-        "원자재",
-        "철강"
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27T05:55:07.151Z",
-        "totalPages": 0,
-        "reviewedPages": "",
-        "charts": "차트 이미지 미확인",
-        "note": "PDF 파일 응답 확인 · 본문·도표 독해 대기"
-      },
-      "pdfSha256": "6c508b8b7a9d7a75dee23079e3eff205915a076851982a222b0964c50f8b2ba7"
-    },
-    {
-      "id": "naver-industry-46628",
-      "title": "Next Energy(Power & Battery Weekly) - LMP 모의 결과 공개, 민자발전 부담 증가",
-      "broker": "유진투자증권",
-      "authors": [
-        "황성현"
-      ],
-      "publishedDate": "2026-10-26",
-      "collectedAt": "2026-10-27T05:55:07.151Z",
-      "sourceUrl": "https://stock.naver.com/research/industry/46628",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/industry/63/20261026_industry_717699000.pdf",
-      "topics": [
-        "글로벌 시황·경제"
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27T05:55:07.151Z",
-        "totalPages": 0,
-        "reviewedPages": "",
-        "charts": "차트 이미지 미확인",
-        "note": "PDF 파일 응답 확인 · 본문·도표 독해 대기"
-      },
-      "pdfSha256": "2f6ff56a28b7d54d9146aaa93e5100f2aad37ac9173af20e739e5dad63668c50"
-    },
-    {
-      "id": "naver-industry-46631",
-      "title": "Weekly - X-energy의 추가 SMR 프로젝트 발표",
-      "broker": "유진투자증권",
-      "authors": [
-        "류태환"
-      ],
-      "publishedDate": "2026-10-26",
-      "collectedAt": "2026-10-27T05:55:07.151Z",
-      "sourceUrl": "https://stock.naver.com/research/industry/46631",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/industry/63/20261026_industry_659600000.pdf",
-      "topics": [
-        "한국 건설경기"
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27T05:55:07.151Z",
-        "totalPages": 0,
-        "reviewedPages": "",
-        "charts": "차트 이미지 미확인",
-        "note": "PDF 파일 응답 확인 · 본문·도표 독해 대기"
-      },
-      "pdfSha256": "507488bbfb0557e6d223e01f1772e21342a1d4ff172650b2ca8a6bfc02f9a31b"
-    },
-    {
-      "id": "naver-industry-46655",
-      "title": "안보자산으로서의 가치가 커지는 정유산업",
-      "broker": "하나증권",
-      "authors": [
-        "윤재성"
-      ],
-      "publishedDate": "2026-10-26",
-      "collectedAt": "2026-10-27T05:55:07.151Z",
-      "sourceUrl": "https://stock.naver.com/research/industry/46655",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/industry/57/20261026_industry_186149000.pdf",
-      "topics": [
-        "글로벌 시황·경제"
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27T05:55:07.151Z",
-        "totalPages": 0,
-        "reviewedPages": "",
-        "charts": "차트 이미지 미확인",
-        "note": "PDF 파일 응답 확인 · 본문·도표 독해 대기"
-      },
-      "pdfSha256": "1fdf38a39b9707bce23f875f5869b31cae222dd85256fb4fe2d06c55da5a0b73"
-    },
-    {
-      "id": "naver-industry-46656",
-      "title": "중국 철강 생산 감소세, 수요 부진 가격 반등 제한",
-      "broker": "하나증권",
-      "authors": [
-        "박성봉"
-      ],
-      "publishedDate": "2026-10-26",
-      "collectedAt": "2026-10-27T05:55:07.151Z",
-      "sourceUrl": "https://stock.naver.com/research/industry/46656",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/industry/57/20261026_industry_677665000.pdf",
-      "topics": [
-        "환율",
-        "원자재",
-        "철강"
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27T00:36:02.628Z",
-        "totalPages": 16,
-        "reviewedPages": "핵심 요약 · PDF p.1~2/16 확인",
-        "charts": "p.1~2 이미지 확인",
-        "note": "부분 독해입니다. p.3~16의 주간 뉴스·세부 도표·고지는 미검토입니다. NBS·CISA·Mysteel 원자료는 별도 대조하지 않았습니다. 계산 도구 미실행·결과 미판정."
-      },
-      "pdfSha256": "906593959780dabbe3e6e93658fe57c09533be93d77bad8566582ecd51626a9f",
+      "pdfSha256": "ab0ec0bf487aa41921ff9258abf59ee99073f1eb4e1b6eb6642f02c402ce9773",
       "summary": {
-        "text": "하나증권은 중국 철강 생산 감소만으로 가격 반등을 기대하기 어렵다고 봅니다. 건설 수요 부진과 재고 증가가 공급 축소 효과를 약화한다는 판단입니다.",
-        "logic": "건설 수요 약화 → 판매가격 반등 제약·재고 부담 → 원료비 전가 어려움 → 철근 생산 손실 확대. 가격 회복에는 실수요 개선이나 추가 감산이 필요하다는 논리입니다(p.2).",
+        "text": "대신증권은 추가 긴축에 따른 단기 금리 상승 위험과 이후 성장 둔화에 따른 중기 안정 가능성을 구분합니다. 원화는 무역흑자에 따른 달러 공급을 지지 요인으로 봅니다.",
+        "highlights": {
+          "rates": [
+            "대신증권은 추가 금리 인상 위험이 남아 있다고 봅니다. 중기 금리 안정 전망은 긴축 종료와 성장·물가 둔화 확인이 전제입니다."
+          ],
+          "fx": [
+            "대신증권은 무역흑자의 달러 공급이 원/달러 상단을 제한할 것으로 봅니다. 추가 하락 전망은 연준 긴축이 마무리된다는 조건에 달려 있습니다."
+          ]
+        },
+        "logic": "p.1은 금리 인상 진행→시장금리 고점 확인→성장 둔화와 물가 안정에 따른 하락 시도의 순서입니다. 환율은 연준 불확실성과 신용 위험의 달러 수요를 한국 무역흑자의 달러 공급이 상쇄한다는 연결입니다. 마지막 구간에는 한국 수출 둔화와 달러 반등을 가정해 원/달러 반등도 포함합니다.",
         "evidence": [
-          "p.2: 누적 조강 생산 감소와 9월 생산 증가를 구분합니다. 누적 수치만으로 최근 공급 긴축을 단정할 수 없습니다.",
-          "p.2: 철근 생산 감소·재고 증가·생산 손실 확대를 함께 제시합니다. 도표의 업종 수익률은 2017년=100 지수이며 실제 가격이 아닙니다."
+          "p.1 기간별 표는 현 수준과 F1Q~F4Q 전망을 구분합니다. 단기 금리 위험과 중기 안정 전망을 같은 시점의 모순된 주장으로 읽으면 안 됩니다.",
+          "p.1 국고채 만기별 금리와 회사채AAA 스프레드를 나눠 제시합니다. 스프레드 확대 위험과 국채 금리 경로는 별도입니다."
         ],
         "limitations": [
-          "전체 16쪽 중 첫 2쪽의 핵심 논지만 요약했습니다. 한국 기업의 실적·가치평가나 보고서 전체 전략 검증은 아닙니다.",
-          "중국 수급과 한국 거래가격의 전달에는 수출 오퍼·관세·환율·규격·납기 조건이 필요합니다. 국내 가격의 자동 하락을 뜻하지 않습니다."
+          "F1Q~F4Q의 정확한 달력 범위가 표에서 정의되지 않습니다. 시장금리 고점과 달러 하락 시점은 저자의 조건부 전망입니다.",
+          "연준 추가 인상 횟수 서술은 본문1~2회와 환율 표2~3회가 다릅니다. 1,200원대 시도 서술과 표의1,300원도 정확히 연결되지 않습니다."
         ],
         "watch": [
-          "AI 확인 제안: 감산의 지속성, 재고 감소가 판매 회복에 동반되는지, 건설향 주문과 한국향 오퍼를 대조합니다."
+          "AI 확인 제안: 연준 경로, 한국 무역흑자·달러 수급, 성장·물가 둔화가 가정과 일치하는지 확인합니다."
         ],
-        "sections": []
+        "sections": [
+          {
+            "title": "① 읽은 자료와 중심 질문",
+            "paragraphs": [
+              "대신증권 공동락·이정훈, 표지10월26일/사이트10월27일. 2쪽 전체의 표·고지를 확인했습니다. 추가 긴축 중에 금리와 환율이 언제 방향을 바꿀지가 질문입니다."
+            ]
+          },
+          {
+            "title": "② 이 보고서가 바꾸려는 관점",
+            "paragraphs": [
+              "현재 금리가 높다는 판단과 바로 금리가 하락한다는 판단을 구분합니다. 환율도 금리차 하나로 정하지 않고 실물 무역에서 나오는 달러 공급을 함께 봅니다(p.1)."
+            ]
+          },
+          {
+            "title": "③ 저자의 논리를 처음부터 끝까지",
+            "paragraphs": [
+              "금리 인상기에는 정책 경로의 재평가가 먼저 시장금리를 높이고, 인상 종료를 확인한 뒤 성장 둔화·물가 안정이 중기 하락을 돕는 순서입니다. 고금리 자체만으로 하락 시점을 확정하지 않습니다(p.1).",
+              "달러 수요 측면의 연준·신용 불확실성과 공급 측면의 무역흑자가 맞섭니다. 이후 한국 수출 동력이 둔화되면 원화 강세도 약해질 수 있다는 반대 조건을 포함합니다."
+            ]
+          },
+          {
+            "title": "④ 핵심 도표와 근거가 실제로 말하는 것",
+            "paragraphs": [
+              "p.1은 시계열 관측 그래프가 아니라 기간별 전망표입니다. 금리는%, 환율은원, 회사채AAA 스프레드는 금리 차로 구분합니다. 표는 가정의 방향과 만기별 차이를 보여주며 전망이 실현됐다는 증거는 아닙니다."
+            ]
+          },
+          {
+            "title": "⑤ 추정·가치평가·투자전략은 어떻게 나왔나",
+            "paragraphs": [
+              "강세 때 포지션·듀레이션 축소는 저자의 채권 전략입니다. 인상기 추가 금리 위험을 전제로 하며 현재 AI 매매 의견으로 바꾸지 않습니다. 금리·환율 전망의 수치 모형이나 확률은 제공되지 않아 계산 재현은 보류합니다."
+            ]
+          },
+          {
+            "title": "⑥ 설득력 있는 부분과 아직 넘지 못한 부분",
+            "paragraphs": [
+              "정책·시장금리와 달러 수급을 나눠 읽는 점은 유용합니다. 다만 가정 변화에 따른 정량 민감도와 표/본문의 인상 횟수·환율 저점 연결은 확인이 필요합니다. 서로 다른 기간의 숫자를 단순 곱하거나 오류로 확정하지 않습니다."
+            ]
+          },
+          {
+            "title": "⑦ 앞으로 무엇으로 확인할 것인가",
+            "paragraphs": [
+              "AI 제안은 정책 결정과 무역·달러 수급의 대조입니다. 저자가 말한 성장·물가 안정이 관찰되지 않으면 중기 금리 하락 전제가 약해집니다."
+            ]
+          },
+          {
+            "title": "⑧ 이 보고서에서 가져갈 것",
+            "paragraphs": [
+              "가져갈 관점은 전망의 시간 순서와 수요·공급 상쇄입니다. p.1 두 전망표를 함께 다시 읽되, 정의가 빈 F분기와 상충하는 서술은 그대로 남겨둡니다. p.2는 작성 독립성·이해관계와 추정치 한계를 고지합니다."
+            ]
+          }
+        ]
       }
-    },
-    {
-      "id": "naver-industry-46657",
-      "title": "Re-NEWable Weekly [10월 5주차]",
-      "broker": "교보증권",
-      "authors": [
-        "조혜빈"
-      ],
-      "publishedDate": "2026-10-26",
-      "collectedAt": "2026-10-27T05:55:07.151Z",
-      "sourceUrl": "https://stock.naver.com/research/industry/46657",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/industry/62/20261026_industry_609823000.pdf",
-      "topics": [
-        "원자재"
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27T05:55:07.151Z",
-        "totalPages": 0,
-        "reviewedPages": "",
-        "charts": "차트 이미지 미확인",
-        "note": "PDF 파일 응답 확인 · 본문·도표 독해 대기"
-      },
-      "pdfSha256": "75c448c6a0aa6a5010615f38dbb294754e9b9e89ae026e387cff1a0f1b136c33"
-    },
-    {
-      "id": "naver-industry-46659",
-      "title": "AI가 키운 전력수요 원전에서 답을 찾다: 한국 원전 얼마나 더 필요할까?",
-      "broker": "교보증권",
-      "authors": [
-        "이상호"
-      ],
-      "publishedDate": "2026-10-26",
-      "collectedAt": "2026-10-27T05:55:07.151Z",
-      "sourceUrl": "https://stock.naver.com/research/industry/46659",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/industry/62/20261026_industry_690242000.pdf",
-      "topics": [
-        "글로벌 시황·경제"
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27T05:55:07.151Z",
-        "totalPages": 0,
-        "reviewedPages": "",
-        "charts": "차트 이미지 미확인",
-        "note": "PDF 파일 응답 확인 · 본문·도표 독해 대기"
-      },
-      "pdfSha256": "6c4c92d8b028abf6275f9e2321a3babe1f770e09b806b09c98c8fa2c1d5338f2"
-    },
-    {
-      "id": "naver-invest-40588",
-      "title": "Kiwoom ETF Weekly (10/26)",
-      "broker": "키움증권",
-      "authors": [],
-      "publishedDate": "2026-10-26",
-      "collectedAt": "2026-10-27T01:23:08.472Z",
-      "sourceUrl": "https://stock.naver.com/research/invest/40588",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/invest/59/20261026_invest_27455000.pdf",
-      "topics": [
-        "금리",
-        "원자재"
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27T01:23:08.472Z",
-        "totalPages": 0,
-        "reviewedPages": "",
-        "charts": "차트 이미지 미확인",
-        "note": "PDF 파일 응답 확인 · 본문·도표 독해 대기"
-      },
-      "pdfSha256": "9ed356ac9993ea36690ce7e6924b664dcf79f019f700b8676b8d3dcdc1f03b45"
-    },
-    {
-      "id": "naver-invest-40589",
-      "title": "화수분전략",
-      "broker": "하나증권",
-      "authors": [],
-      "publishedDate": "2026-10-26",
-      "collectedAt": "2026-10-27T01:23:08.472Z",
-      "sourceUrl": "https://stock.naver.com/research/invest/40589",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/invest/57/20261026_invest_584198000.pdf",
-      "topics": [
-        "원자재"
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27T01:23:08.472Z",
-        "totalPages": 0,
-        "reviewedPages": "",
-        "charts": "차트 이미지 미확인",
-        "note": "PDF 파일 응답 확인 · 본문·도표 독해 대기"
-      },
-      "pdfSha256": "a7637809ff561ad9ee77d6c1bab4f9a3c3e3f56fd489cce79daa68eec6637669"
-    },
-    {
-      "id": "naver-invest-40590",
-      "title": "[The Midterm Election Playbook] 미국 중간선거 이후 대응 전략과 국내 섹터 영향",
-      "broker": "하나증권",
-      "authors": [],
-      "publishedDate": "2026-10-26",
-      "collectedAt": "2026-10-27T02:25:02.665Z",
-      "sourceUrl": "https://stock.naver.com/research/invest/40590",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/invest/57/20261026_invest_927469000.pdf",
-      "topics": [
-        "금리",
-        "원자재"
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27T02:25:02.665Z",
-        "totalPages": 0,
-        "reviewedPages": "",
-        "charts": "차트 이미지 미확인",
-        "note": "PDF 파일 응답 확인 · 본문·도표 독해 대기"
-      },
-      "pdfSha256": "362fbc69ee5aabe2f12a93bb8132c20e5c4a97ff45d78555a3268f1ae719922c"
-    },
-    {
-      "id": "naver-invest-40591",
-      "title": "[Quant Comment] 국내외 주간 이익 동향 체크",
-      "broker": "하나증권",
-      "authors": [],
-      "publishedDate": "2026-10-26",
-      "collectedAt": "2026-10-27T05:55:07.151Z",
-      "sourceUrl": "https://stock.naver.com/research/invest/40591",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/invest/57/20261026_invest_335912000.pdf",
-      "topics": [
-        "환율"
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27T05:55:07.151Z",
-        "totalPages": 0,
-        "reviewedPages": "",
-        "charts": "차트 이미지 미확인",
-        "note": "PDF 파일 응답 확인 · 본문·도표 독해 대기"
-      },
-      "pdfSha256": "478ea3da0fa15e414d8a1a40e9ec66d589997792a2e3122c79bda3dcfea27046"
-    },
-    {
-      "id": "naver-invest-40592",
-      "title": "[펀드 플로우 Weekly] 신흥국 주식형 펀드 52주 최대 순유입",
-      "broker": "유안타증권",
-      "authors": [],
-      "publishedDate": "2026-10-26",
-      "collectedAt": "2026-10-27T05:55:07.151Z",
-      "sourceUrl": "https://stock.naver.com/research/invest/40592",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/invest/18/20261026_invest_912323000.pdf",
-      "topics": [
-        "금리"
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27T05:55:07.151Z",
-        "totalPages": 0,
-        "reviewedPages": "",
-        "charts": "차트 이미지 미확인",
-        "note": "PDF 파일 응답 확인 · 본문·도표 독해 대기"
-      },
-      "pdfSha256": "d7a231d546e68d49244a285add633139fa08b80429d08276890b93492fe24317"
-    },
-    {
-      "id": "naver-economy-13937",
-      "title": "AI발 안전자산 초강세, 주목해야 할 지표는",
-      "broker": "iM증권",
-      "authors": [],
-      "publishedDate": "2026-10-23",
-      "collectedAt": "2026-10-27T01:23:08.472Z",
-      "sourceUrl": "https://stock.naver.com/research/economy/13937",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/economy/61/20261023_economy_988101000.pdf",
-      "topics": [
-        "금리",
-        "환율",
-        "원자재"
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27T01:23:08.472Z",
-        "totalPages": 0,
-        "reviewedPages": "",
-        "charts": "차트 이미지 미확인",
-        "note": "PDF 파일 응답 확인 · 본문·도표 독해 대기"
-      },
-      "pdfSha256": "e7ac624c618665677e13e75a7024a31681180c7211ff349e3b0adf05bcf94d41"
-    },
-    {
-      "id": "naver-economy-13938",
-      "title": "[IBKS Economy Monitor] Focus on Week: 신용위험의 경로와 2023년의 교훈",
-      "broker": "IBK투자증권",
-      "authors": [],
-      "publishedDate": "2026-10-23",
-      "collectedAt": "2026-10-27T02:25:02.665Z",
-      "sourceUrl": "https://stock.naver.com/research/economy/13938",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/economy/40/20261023_economy_790991000.pdf",
-      "topics": [
-        "금리"
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27T02:25:02.665Z",
-        "totalPages": 0,
-        "reviewedPages": "",
-        "charts": "차트 이미지 미확인",
-        "note": "PDF 파일 응답 확인 · 본문·도표 독해 대기"
-      },
-      "pdfSha256": "6c2377ee4df48b7b224c8226a162165ee6b4e497794dc6af386489255df8fbeb"
-    },
-    {
-      "id": "naver-economy-13939",
-      "title": "(Macro Snapshot) AI 투자 기대의 현실화와 연준의 대응",
-      "broker": "키움증권",
-      "authors": [],
-      "publishedDate": "2026-10-23",
-      "collectedAt": "2026-10-27T05:55:07.151Z",
-      "sourceUrl": "https://stock.naver.com/research/economy/13939",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/economy/39/20261023_economy_274331000.pdf",
-      "topics": [
-        "금리",
-        "원자재"
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27T05:55:07.151Z",
-        "totalPages": 0,
-        "reviewedPages": "",
-        "charts": "차트 이미지 미확인",
-        "note": "PDF 파일 응답 확인 · 본문·도표 독해 대기"
-      },
-      "pdfSha256": "d6f0b94f1cebbec5029212699f5c4a382530c5f850fa5565055ec19f411dbb5a"
-    },
-    {
-      "id": "naver-economy-13940",
-      "title": "10/23, Kiwoom Morning Letter",
-      "broker": "키움증권",
-      "authors": [],
-      "publishedDate": "2026-10-23",
-      "collectedAt": "2026-10-27T05:55:07.151Z",
-      "sourceUrl": "https://stock.naver.com/research/economy/13940",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/economy/39/20261023_economy_179860000.pdf",
-      "topics": [
-        "글로벌 시황·경제"
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27T05:55:07.151Z",
-        "totalPages": 0,
-        "reviewedPages": "",
-        "charts": "차트 이미지 미확인",
-        "note": "PDF 파일 응답 확인 · 본문·도표 독해 대기"
-      },
-      "pdfSha256": "f04aaeaa0cb31ff78fc266e886bfee5c77e1738dbdd65d6f7b7e701a68e8e797"
-    },
-    {
-      "id": "naver-industry-46598",
-      "title": "답답해서 LH가 한다",
-      "broker": "하나증권",
-      "authors": [
-        "김승준"
-      ],
-      "publishedDate": "2026-10-22",
-      "collectedAt": "2026-10-27T05:55:07.151Z",
-      "sourceUrl": "https://stock.naver.com/research/industry/46598",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/industry/57/20261022_industry_816957000.pdf",
-      "topics": [
-        "한국 건설경기"
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27T00:36:02.628Z",
-        "totalPages": 49,
-        "reviewedPages": "핵심 요약 · PDF p.1~2/49 확인",
-        "charts": "p.1~2 이미지 확인 · 세부 도표 미검토",
-        "note": "첫 장과 목차에 한정한 요약입니다. PDF p.3~49의 정책·수주 집계·기업별 추정·고지는 미검토입니다. PDF p.2의 인쇄 쪽수는 1입니다. 정책 원문 별도 확인 없음·계산 도구 미실행·결과 미판정."
-      },
-      "pdfSha256": "a2e3b7582b24c8cf840b64dc3ab0c88738a3951bd93de46cb4cacd916eae3749",
-      "summary": {
-        "text": "하나증권은 민간 주택 착공의 제약 속에서 공공 주도 공급이 확대되고, LH 공사 수행 경험이 있는 건설사에 수주 기회가 생길 것으로 봅니다.",
-        "logic": "토지·공사·금융 비용 상승과 분양 부담 → 민간 착공 제약 → 공공 직접 시행·발주 확대 계획 → 수행 경험이 있는 업체의 수주 기회라는 연결입니다(p.1).",
-        "evidence": [
-          "p.1: 저자는 LH의 2026~2030년 42.6만호·공사비 130조원 이상 발주 계획을 제시합니다. 확정 매출이 아닌 계획입니다.",
-          "p.2 목차는 정책 변화 → 공사 방식 → 시장 규모 → 수혜 분석으로 구성됩니다. 종목별 추정·목표가 근거는 뒤쪽 별도 분석입니다."
-        ],
-        "limitations": [
-          "49쪽 중 p.1~2만 확인했습니다. 정책 이행 단계·예산 집행·업체별 수익성 및 목표가 산식은 검증하지 않았습니다.",
-          "수주가 매출로 바뀌는 시차와 원가·금융 부담이 있어 발주 규모를 이익 증가로 바로 바꿀 수 없습니다. 종목 추천은 저자의 전략입니다."
-        ],
-        "watch": [
-          "AI 확인 제안: 예산·발주 공고·실제 착공·계약 체결과 공사 진행률을 순서대로 확인합니다. 철강 수요는 실제 공정과 물량을 별도로 봅니다."
-        ],
-        "sections": []
-      }
-    },
-    {
-      "id": "naver-industry-46573",
-      "title": "역래깅 이후, 시선은 구조조정으로",
-      "broker": "신한투자증권",
-      "authors": [
-        "이진명",
-        "김명주"
-      ],
-      "publishedDate": "2026-10-21",
-      "collectedAt": "2026-10-27T05:55:07.151Z",
-      "sourceUrl": "https://stock.naver.com/research/industry/46573",
-      "topics": [
-        "원자재"
-      ],
-      "verification": {
-        "status": "failed",
-        "checkedAt": "2026-10-27T05:55:07.151Z",
-        "totalPages": 0,
-        "reviewedPages": "",
-        "charts": "차트 이미지 미확인",
-        "note": "허용된 PDF 원문 주소를 확인할 수 없습니다."
-      }
-    },
-    {
-      "id": "naver-industry-46557",
-      "title": "공급 부족 상황 지속 중",
-      "broker": "유진투자증권",
-      "authors": [
-        "황성현"
-      ],
-      "publishedDate": "2026-10-20",
-      "collectedAt": "2026-10-27T01:23:08.472Z",
-      "sourceUrl": "https://stock.naver.com/research/industry/46557",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/industry/63/20261020_industry_955381000.pdf",
-      "topics": [
-        "글로벌 시황·경제"
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27T01:23:08.472Z",
-        "totalPages": 0,
-        "reviewedPages": "",
-        "charts": "차트 이미지 미확인",
-        "note": "PDF 파일 응답 확인 · 본문·도표 독해 대기"
-      },
-      "pdfSha256": "02bf93e06c1b705ebac467c12e4b1ba5058df891204ab04d58a5dd8f648942a3"
-    },
-    {
-      "id": "naver-industry-46566",
-      "title": "한국 데이터센터 당위성에 주목",
-      "broker": "하나증권",
-      "authors": [
-        "김승준"
-      ],
-      "publishedDate": "2026-10-20",
-      "collectedAt": "2026-10-27T05:55:07.151Z",
-      "sourceUrl": "https://stock.naver.com/research/industry/46566",
-      "pdfUrl": "https://stock.pstatic.net/stock-research/industry/57/20261020_industry_146471000.pdf",
-      "topics": [
-        "한국 건설경기"
-      ],
-      "verification": {
-        "status": "verified",
-        "checkedAt": "2026-10-27T05:55:07.151Z",
-        "totalPages": 0,
-        "reviewedPages": "",
-        "charts": "차트 이미지 미확인",
-        "note": "PDF 파일 응답 확인 · 본문·도표 독해 대기"
-      },
-      "pdfSha256": "74555ab79a963c3d062b44c76710711d70f2358b79535b50654ca330ce2582ca"
     }
-  ],
-  "errors": [
-    "naver-industry-46615: 허용된 PDF 원문 주소를 확인할 수 없습니다.",
-    "naver-industry-46573: 허용된 PDF 원문 주소를 확인할 수 없습니다."
   ]
 }
