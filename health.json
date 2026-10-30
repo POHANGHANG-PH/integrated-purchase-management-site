@@ -1,9 +1,9 @@
 {
   "status": "ok",
   "environment": "production",
-  "deployedAt": "2026-10-30T02:39:41.945Z",
-  "sourceCommit": "f87cf07bad973c790fc663ad32b3c200fa512ccb",
-  "workflowRunId": "40992876440",
+  "deployedAt": "2026-10-30T02:51:43.620Z",
+  "sourceCommit": "da6af771eb8214ac3859652a51d6b89a21572952",
+  "workflowRunId": "40994039106",
   "releaseContract": {
     "version": 6,
     "criticalFeatures": [
@@ -43,6 +43,11 @@
         "route": "/news"
       },
       {
+        "id": "breaking-news",
+        "label": "속보",
+        "route": "/news/breaking"
+      },
+      {
         "id": "library-tolerance",
         "label": "Library Tolerance Data",
         "route": "/library/tolerance-data/tctech"
@@ -51,7 +56,7 @@
   },
   "releaseGuard": {
     "status": "verified",
-    "verifiedAt": "2026-10-30T02:43:43.818Z",
+    "verifiedAt": "2026-10-30T02:55:53.288Z",
     "contractVersion": 6,
     "criticalFeatures": [
       "purchase-planning-core",
@@ -61,23 +66,29 @@
       "terex-planning",
       "spile-planning",
       "generated-news",
+      "breaking-news",
       "library-tolerance"
     ],
     "artifacts": [
       {
-        "path": "assets/index-BO1ReQ4B.js",
-        "bytes": 508792,
-        "sha256": "a0369f127d89536602cb06541d3909e823470877e0451c5db205d83ab43900a5"
+        "path": "assets/index-DQQhmpsU.js",
+        "bytes": 509224,
+        "sha256": "de81b4fcddee2e3829e4c986958e61c2b536d7b92c67e0f4285028f443b0ef10"
       },
       {
-        "path": "assets/index-CH9AMRqo.css",
+        "path": "assets/index-EP8dKHGL.css",
         "bytes": 29857,
-        "sha256": "06ad235d236c35e11f9aab26df8c37b12da3841410bc43655ff22c9af97455d3"
+        "sha256": "c47a2c07764a40c8c6eef30c4624911bc80ac916046e25321402da224f8d4432"
       },
       {
-        "path": "assets/PriceOverview-BKzP6-76.js",
+        "path": "assets/NewsBreaking-BcQzZbEi.js",
+        "bytes": 5258,
+        "sha256": "53ba5e5799249b25bccffeed543c69fa6bb3ca4c9bb791dfefff0e76ed98f08f"
+      },
+      {
+        "path": "assets/PriceOverview-Eo0PF6BK.js",
         "bytes": 10017,
-        "sha256": "6bddd3fcfd9d4b6940bbd52f0eff40f960b11609c0e18faf574c3a49b1953fa5"
+        "sha256": "b88d93fb3ee90f38bfddb718e5883dc4d9777f702aee18e5ff33b1b85e11cd66"
       },
       {
         "path": "assets/poscoPriceService-MFimep74.js",
@@ -85,14 +96,19 @@
         "sha256": "213c5a59c8020333371a0df14d860cb94dce4a7ee9d685bf14ef2d40b812cde5"
       },
       {
-        "path": "assets/PoscoPriceCalculator-BsZgnFcH.js",
+        "path": "assets/PoscoPriceCalculator-Do8yRrEy.js",
         "bytes": 26373,
-        "sha256": "11af85545bce0b741ebee5b7921b1a9cfe8e325beb69f4ffdc4af448ea57d532"
+        "sha256": "454a915490db6ee71e0546ef8927b1128803c23e896786a851efbb517fdd7040"
       },
       {
-        "path": "assets/MarketPriceInformation-BTFRpPZm.js",
+        "path": "assets/MarketPriceInformation-CrqimWs6.js",
         "bytes": 7493,
-        "sha256": "e3aab6da3655a23b88b9b47c4b827f4444dea424d39c62c31638726181de97d4"
+        "sha256": "f89231fd1b3acb7f6cb6850bd2f34d8cf31b54c35b5628434be6148ab1ad01e7"
+      },
+      {
+        "path": "news/breaking.json",
+        "bytes": 219355,
+        "sha256": "0b963c28554feeb4e6f56062bde33fc54ea3f754c6a00ba0a676e4b31bbc902b"
       },
       {
         "path": "404.html",
