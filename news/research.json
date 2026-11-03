@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "collectedAt": "2026-11-03T04:14:52.206Z",
+  "collectedAt": "2026-11-03T08:06:10.683Z",
   "source": "naver-public-research-web",
   "update": {
-    "checkedAt": "2026-11-03T04:14:52.206Z",
+    "checkedAt": "2026-11-03T08:06:10.683Z",
     "updatedAt": "2026-11-03T02:21:08.776Z",
     "newAnalysisCount": 0
   },
@@ -16,7 +16,7 @@
         "심수빈"
       ],
       "publishedDate": "2026-11-02",
-      "collectedAt": "2026-11-03T04:14:19.371Z",
+      "collectedAt": "2026-11-03T08:05:31.302Z",
       "sourceUrl": "https://stock.naver.com/research/invest/40658",
       "pdfUrl": "https://stock.pstatic.net/stock-research/invest/39/20261102_invest_388565000.pdf",
       "topics": [
@@ -116,7 +116,7 @@
         "김유미"
       ],
       "publishedDate": "2026-10-30",
-      "collectedAt": "2026-11-03T04:14:19.371Z",
+      "collectedAt": "2026-11-03T08:05:31.302Z",
       "sourceUrl": "https://stock.naver.com/research/economy/13968",
       "pdfUrl": "https://stock.pstatic.net/stock-research/economy/39/20261030_economy_238979000.pdf",
       "topics": [
@@ -415,7 +415,7 @@
         "김지나"
       ],
       "publishedDate": "2026-10-29",
-      "collectedAt": "2026-11-03T04:14:19.371Z",
+      "collectedAt": "2026-11-03T08:05:31.302Z",
       "sourceUrl": "https://stock.naver.com/research/debenture/11480",
       "pdfUrl": "https://stock.pstatic.net/stock-research/debenture/63/20261029_debenture_859776000.pdf",
       "topics": [
