@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "collectedAt": "2026-11-04T02:47:34.665Z",
+  "collectedAt": "2026-11-04T02:59:40.060Z",
   "source": "naver-public-research-web",
   "update": {
-    "checkedAt": "2026-11-04T02:47:34.665Z",
+    "checkedAt": "2026-11-04T02:59:40.060Z",
     "updatedAt": "2026-11-03T22:48:32.843Z",
     "newAnalysisCount": 0
   },
@@ -16,7 +16,7 @@
         "박상현"
       ],
       "publishedDate": "2026-11-03",
-      "collectedAt": "2026-11-04T02:45:23.317Z",
+      "collectedAt": "2026-11-04T02:57:11.782Z",
       "sourceUrl": "https://stock.naver.com/research/economy/13986",
       "pdfUrl": "https://stock.pstatic.net/stock-research/economy/61/20261103_economy_919293000.pdf",
       "topics": [
@@ -122,7 +122,7 @@
         "심수빈"
       ],
       "publishedDate": "2026-11-02",
-      "collectedAt": "2026-11-04T02:45:23.317Z",
+      "collectedAt": "2026-11-04T02:57:11.782Z",
       "sourceUrl": "https://stock.naver.com/research/invest/40658",
       "pdfUrl": "https://stock.pstatic.net/stock-research/invest/39/20261102_invest_388565000.pdf",
       "topics": [
@@ -222,7 +222,7 @@
         "김유미"
       ],
       "publishedDate": "2026-10-30",
-      "collectedAt": "2026-11-04T02:45:23.317Z",
+      "collectedAt": "2026-11-04T02:57:11.782Z",
       "sourceUrl": "https://stock.naver.com/research/economy/13968",
       "pdfUrl": "https://stock.pstatic.net/stock-research/economy/39/20261030_economy_238979000.pdf",
       "topics": [
@@ -317,7 +317,7 @@
         "신대현"
       ],
       "publishedDate": "2026-10-30",
-      "collectedAt": "2026-11-04T02:45:23.317Z",
+      "collectedAt": "2026-11-04T02:57:11.782Z",
       "sourceUrl": "https://stock.naver.com/research/industry/46717",
       "pdfUrl": "https://stock.pstatic.net/stock-research/industry/39/20261030_industry_69722000.pdf",
       "topics": [
@@ -717,7 +717,7 @@
         "김소정"
       ],
       "publishedDate": "2026-10-27",
-      "collectedAt": "2026-11-04T02:45:23.317Z",
+      "collectedAt": "2026-11-04T02:57:11.782Z",
       "sourceUrl": "https://stock.naver.com/research/industry/46668",
       "pdfUrl": "https://stock.pstatic.net/stock-research/industry/63/20261027_industry_756697000.pdf",
       "topics": [
@@ -817,7 +817,7 @@
         "김승준"
       ],
       "publishedDate": "2026-10-27",
-      "collectedAt": "2026-11-04T02:45:23.317Z",
+      "collectedAt": "2026-11-04T02:57:11.782Z",
       "sourceUrl": "https://stock.naver.com/research/industry/46681",
       "pdfUrl": "https://stock.pstatic.net/stock-research/industry/57/20261027_industry_411736000.pdf",
       "topics": [
