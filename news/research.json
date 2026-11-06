@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "collectedAt": "2026-11-05T22:41:08.861Z",
+  "collectedAt": "2026-11-06T02:53:57.077Z",
   "source": "naver-public-research-web",
   "update": {
-    "checkedAt": "2026-11-05T22:41:08.861Z",
+    "checkedAt": "2026-11-06T02:53:57.077Z",
     "updatedAt": "2026-11-05T22:41:08.861Z",
-    "newAnalysisCount": 1
+    "newAnalysisCount": 0
   },
   "reports": [
     {
@@ -16,7 +16,7 @@
         "박상현"
       ],
       "publishedDate": "2026-11-03",
-      "collectedAt": "2026-11-05T22:40:24.505Z",
+      "collectedAt": "2026-11-06T02:51:16.413Z",
       "sourceUrl": "https://stock.naver.com/research/economy/13986",
       "pdfUrl": "https://stock.pstatic.net/stock-research/economy/61/20261103_economy_919293000.pdf",
       "topics": [
