@@ -1,9 +1,9 @@
 {
   "status": "ok",
   "environment": "production",
-  "deployedAt": "2026-11-07T02:52:53.255Z",
+  "deployedAt": "2026-11-08T01:53:47.444Z",
   "sourceCommit": "eed378c95cfc42cd5acf460c3b9ad768da915552",
-  "workflowRunId": "42331264236",
+  "workflowRunId": "42436082988",
   "releaseContract": {
     "version": 6,
     "criticalFeatures": [
@@ -56,7 +56,7 @@
   },
   "releaseGuard": {
     "status": "verified",
-    "verifiedAt": "2026-11-07T02:57:37.455Z",
+    "verifiedAt": "2026-11-08T01:57:32.402Z",
     "contractVersion": 6,
     "criticalFeatures": [
       "purchase-planning-core",
@@ -107,13 +107,13 @@
       },
       {
         "path": "news/market-indicators.json",
-        "bytes": 32628,
-        "sha256": "c8bb8058bb744109a14edc958ee64e2a3052fdafa6a94e8b54e681880cdefd71"
+        "bytes": 32627,
+        "sha256": "430da657d7053e93b0def509fe1ecdc8c3cf62de6d4e793f4b9b3e7aba71484b"
       },
       {
         "path": "news/breaking.json",
-        "bytes": 1227352,
-        "sha256": "84973fc5b975018a4ae1ffdda9663f06747f5762d42675b200599ccac6ed9e03"
+        "bytes": 1216560,
+        "sha256": "89d799432ffb204342d2bbfa574ec06a0baf7e91e55d06bf07f4ca4299347172"
       },
       {
         "path": "404.html",
