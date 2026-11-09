@@ -1,9 +1,9 @@
 {
   "status": "ok",
   "environment": "production",
-  "deployedAt": "2026-11-09T02:30:12.328Z",
-  "sourceCommit": "514136c63bd2819a55dd537c0e346ae1da2d90d9",
-  "workflowRunId": "42551176719",
+  "deployedAt": "2026-11-09T02:39:49.730Z",
+  "sourceCommit": "1eecb30e2eae185d68cc7d21344314a338a6d85b",
+  "workflowRunId": "42552101303",
   "releaseContract": {
     "version": 6,
     "criticalFeatures": [
@@ -56,7 +56,7 @@
   },
   "releaseGuard": {
     "status": "verified",
-    "verifiedAt": "2026-11-09T02:34:35.189Z",
+    "verifiedAt": "2026-11-09T02:43:37.280Z",
     "contractVersion": 6,
     "criticalFeatures": [
       "purchase-planning-core",
@@ -71,9 +71,9 @@
     ],
     "artifacts": [
       {
-        "path": "assets/index-D8f5mEj6.js",
-        "bytes": 519463,
-        "sha256": "b38f25f24a36e2b057b80b44ffd107ae20720c6e2491e0a6a733860ea5176b4c"
+        "path": "assets/index-B9WoPPPE.js",
+        "bytes": 523717,
+        "sha256": "e23a7a8f22713b793919b61b0313c3e13daa794871b4ac33eb3d3dcdc8f5eaf4"
       },
       {
         "path": "assets/index-5BxILf0A.css",
@@ -81,14 +81,14 @@
         "sha256": "09ea13e793ab6b58671c257aee041a3e66f9699cb25e006706014fac69eccff8"
       },
       {
-        "path": "assets/NewsBreaking-CjlXsIMA.js",
+        "path": "assets/NewsBreaking-GNY09Sdf.js",
         "bytes": 8343,
-        "sha256": "438fe2f9d4f716604ee50f9c2eae91fbf297b9dabad70c54b9b0a7b5441f67e4"
+        "sha256": "fcd20825cfc6ff454961ec51879c044ca585648b1e7b2141509699a28f69d4ec"
       },
       {
-        "path": "assets/PriceOverview-CGAT-C82.js",
+        "path": "assets/PriceOverview-CTVhEY_N.js",
         "bytes": 10017,
-        "sha256": "ba5d569a1a6148519ccfe85be8c9de8ffc9c31a96e4433429ddd4e61782bcbb3"
+        "sha256": "30f02ccbc0adb57b8a7a70e415fa6930468cc8e608d6616ac665b9307cb8c39a"
       },
       {
         "path": "assets/poscoPriceService-MFimep74.js",
@@ -96,14 +96,14 @@
         "sha256": "213c5a59c8020333371a0df14d860cb94dce4a7ee9d685bf14ef2d40b812cde5"
       },
       {
-        "path": "assets/PoscoPriceCalculator-CqdN1pwY.js",
+        "path": "assets/PoscoPriceCalculator-RRr8SMsi.js",
         "bytes": 26373,
-        "sha256": "a96434bcbc54d7a318e2dc315996aa4abeca3a701e95a68f29d14a3ada360406"
+        "sha256": "f216aaffd27b7f67b81ec459fa5c4bceec2e6cb2094f33d5308b2c9784175ea8"
       },
       {
-        "path": "assets/MarketPriceInformation-7ZrMTXK-.js",
+        "path": "assets/MarketPriceInformation-DacSP9sC.js",
         "bytes": 7493,
-        "sha256": "847909fbb74473f07a0811e6b96d16907fcc90a087ad83c51ae131962c18c779"
+        "sha256": "88ce90b6351a05113995b435794cb9107558905fe9301e6ec3386df3e9cb3cab"
       },
       {
         "path": "news/market-indicators.json",

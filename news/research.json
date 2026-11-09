@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "collectedAt": "2026-11-09T02:30:12.220Z",
+  "collectedAt": "2026-11-09T02:39:49.638Z",
   "source": "naver-public-research-web",
   "update": {
-    "checkedAt": "2026-11-09T02:30:12.220Z",
+    "checkedAt": "2026-11-09T02:39:49.638Z",
     "updatedAt": "2026-11-08T22:46:46.716Z",
     "newAnalysisCount": 0
   },
@@ -17,7 +17,7 @@
         "김정현"
       ],
       "publishedDate": "2026-11-06",
-      "collectedAt": "2026-11-09T02:29:19.682Z",
+      "collectedAt": "2026-11-09T02:39:24.356Z",
       "sourceUrl": "https://stock.naver.com/research/economy/13997",
       "pdfUrl": "https://stock.pstatic.net/stock-research/economy/39/20261106_economy_7751000.pdf",
       "topics": [
