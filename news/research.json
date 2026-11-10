@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "collectedAt": "2026-11-10T08:28:24.942Z",
+  "collectedAt": "2026-11-10T08:45:31.648Z",
   "source": "naver-public-research-web",
   "update": {
-    "checkedAt": "2026-11-10T08:28:24.942Z",
+    "checkedAt": "2026-11-10T08:45:31.648Z",
     "updatedAt": "2026-11-09T22:56:13.995Z",
     "newAnalysisCount": 0
   },
@@ -16,7 +16,7 @@
         "김윤상"
       ],
       "publishedDate": "2026-11-09",
-      "collectedAt": "2026-11-10T08:27:52.703Z",
+      "collectedAt": "2026-11-10T08:44:08.220Z",
       "sourceUrl": "https://stock.naver.com/research/industry/46885",
       "pdfUrl": "https://stock.pstatic.net/stock-research/industry/61/20261109_industry_148838000.pdf",
       "topics": [
@@ -120,7 +120,7 @@
         "김정현"
       ],
       "publishedDate": "2026-11-06",
-      "collectedAt": "2026-11-10T08:27:52.703Z",
+      "collectedAt": "2026-11-10T08:44:08.220Z",
       "sourceUrl": "https://stock.naver.com/research/economy/13997",
       "pdfUrl": "https://stock.pstatic.net/stock-research/economy/39/20261106_economy_7751000.pdf",
       "topics": [
