@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "collectedAt": "2026-11-09T23:35:14.250Z",
+  "collectedAt": "2026-11-10T00:28:50.503Z",
   "source": "naver-public-research-web",
   "update": {
-    "checkedAt": "2026-11-09T23:35:14.250Z",
+    "checkedAt": "2026-11-10T00:28:50.503Z",
     "updatedAt": "2026-11-09T22:56:13.995Z",
     "newAnalysisCount": 0
   },
@@ -16,7 +16,7 @@
         "김윤상"
       ],
       "publishedDate": "2026-11-09",
-      "collectedAt": "2026-11-09T23:34:32.252Z",
+      "collectedAt": "2026-11-10T00:27:00.774Z",
       "sourceUrl": "https://stock.naver.com/research/industry/46885",
       "pdfUrl": "https://stock.pstatic.net/stock-research/industry/61/20261109_industry_148838000.pdf",
       "topics": [
@@ -120,7 +120,7 @@
         "김정현"
       ],
       "publishedDate": "2026-11-06",
-      "collectedAt": "2026-11-09T23:34:32.252Z",
+      "collectedAt": "2026-11-10T00:27:00.774Z",
       "sourceUrl": "https://stock.naver.com/research/economy/13997",
       "pdfUrl": "https://stock.pstatic.net/stock-research/economy/39/20261106_economy_7751000.pdf",
       "topics": [
@@ -224,7 +224,7 @@
         "박상현"
       ],
       "publishedDate": "2026-11-03",
-      "collectedAt": "2026-11-09T23:34:32.252Z",
+      "collectedAt": "2026-11-10T00:27:00.774Z",
       "sourceUrl": "https://stock.naver.com/research/economy/13986",
       "pdfUrl": "https://stock.pstatic.net/stock-research/economy/61/20261103_economy_919293000.pdf",
       "topics": [
