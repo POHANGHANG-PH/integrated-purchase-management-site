@@ -1,9 +1,9 @@
 {
   "status": "ok",
   "environment": "production",
-  "deployedAt": "2026-11-13T04:43:17.278Z",
-  "sourceCommit": "336f3377816d990e1aa18759a273454dbaa2685b",
-  "workflowRunId": "43367207041",
+  "deployedAt": "2026-11-13T08:08:33.116Z",
+  "sourceCommit": "f884694aa7eab24dc2c71cd69241e421539ee1d1",
+  "workflowRunId": "43390693683",
   "releaseContract": {
     "version": 6,
     "criticalFeatures": [
@@ -56,7 +56,7 @@
   },
   "releaseGuard": {
     "status": "verified",
-    "verifiedAt": "2026-11-13T04:46:41.129Z",
+    "verifiedAt": "2026-11-13T08:12:48.704Z",
     "contractVersion": 6,
     "criticalFeatures": [
       "purchase-planning-core",
@@ -104,6 +104,11 @@
         "path": "assets/MarketPriceInformation-BKJdjscI.js",
         "bytes": 7498,
         "sha256": "4a322b8b4e68f56da52f6d506274d0d4459db084884b4fc473f933954dc86805"
+      },
+      {
+        "path": "news/telegram-briefing.json",
+        "bytes": 2952,
+        "sha256": "a30fd919358ec14a440b0bcd8373fa953cc75d7727939209f09cfc0ed03d1e1e"
       },
       {
         "path": "news/market-indicators.json",
