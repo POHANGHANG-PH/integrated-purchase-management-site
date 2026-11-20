@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "collectedAt": "2026-11-20T04:01:56.283Z",
+  "collectedAt": "2026-11-20T05:00:36.630Z",
   "source": "naver-public-research-web",
   "update": {
-    "checkedAt": "2026-11-20T04:01:56.283Z",
+    "checkedAt": "2026-11-20T05:00:36.630Z",
     "updatedAt": "2026-11-19T22:44:48.436Z",
     "newAnalysisCount": 0
   },
@@ -18,7 +18,7 @@
         "심수빈"
       ],
       "publishedDate": "2026-11-19",
-      "collectedAt": "2026-11-20T04:01:32.821Z",
+      "collectedAt": "2026-11-20T05:00:13.711Z",
       "sourceUrl": "https://stock.naver.com/research/invest/40872",
       "pdfUrl": "https://stock.pstatic.net/stock-research/invest/39/20261119_invest_3200000.pdf",
       "topics": [
@@ -145,7 +145,7 @@
         "김소정"
       ],
       "publishedDate": "2026-11-17",
-      "collectedAt": "2026-11-20T04:01:32.821Z",
+      "collectedAt": "2026-11-20T05:00:13.711Z",
       "sourceUrl": "https://stock.naver.com/research/industry/47038",
       "pdfUrl": "https://stock.pstatic.net/stock-research/industry/63/20261117_industry_63930000.pdf",
       "topics": [
@@ -264,7 +264,7 @@
         "이정훈"
       ],
       "publishedDate": "2026-11-17",
-      "collectedAt": "2026-11-20T04:01:32.821Z",
+      "collectedAt": "2026-11-20T05:00:13.711Z",
       "sourceUrl": "https://stock.naver.com/research/invest/40853",
       "pdfUrl": "https://stock.pstatic.net/stock-research/invest/76/20261117_invest_17053000.pdf",
       "topics": [
@@ -387,7 +387,7 @@
         "이현수"
       ],
       "publishedDate": "2026-11-16",
-      "collectedAt": "2026-11-20T04:01:32.821Z",
+      "collectedAt": "2026-11-20T05:00:13.711Z",
       "sourceUrl": "https://stock.naver.com/research/debenture/11564",
       "pdfUrl": "https://stock.pstatic.net/stock-research/debenture/18/20261116_debenture_651721000.pdf",
       "topics": [
