@@ -1,9 +1,9 @@
 {
   "status": "ok",
   "environment": "production",
-  "deployedAt": "2026-11-22T02:40:54.463Z",
+  "deployedAt": "2026-11-22T02:56:37.101Z",
   "sourceCommit": "7ef0620023a7fa995b446577465bae4797820199",
-  "workflowRunId": "44977168832",
+  "workflowRunId": "44978194444",
   "releaseContract": {
     "version": 6,
     "criticalFeatures": [
@@ -56,7 +56,7 @@
   },
   "releaseGuard": {
     "status": "verified",
-    "verifiedAt": "2026-11-22T02:45:20.517Z",
+    "verifiedAt": "2026-11-22T03:00:31.089Z",
     "contractVersion": 6,
     "criticalFeatures": [
       "purchase-planning-core",
@@ -108,7 +108,7 @@
       {
         "path": "news/telegram-briefing.json",
         "bytes": 2400,
-        "sha256": "d8f71326a9ccb28796eae472b1a6b8f8623f3dbfa2c804aace7d7caa1877706d"
+        "sha256": "a183f2f7d25b7e44d029dd73b8bf1e178e968b4a8d07d8c3b6a520e3c44eccc7"
       },
       {
         "path": "news/market-indicators.json",
