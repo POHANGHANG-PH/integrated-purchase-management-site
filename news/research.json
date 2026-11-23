@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "collectedAt": "2026-11-23T03:36:48.636Z",
+  "collectedAt": "2026-11-23T03:44:56.397Z",
   "source": "naver-public-research-web",
   "update": {
-    "checkedAt": "2026-11-23T03:36:48.636Z",
+    "checkedAt": "2026-11-23T03:44:56.397Z",
     "updatedAt": "2026-11-22T22:50:43.861Z",
     "newAnalysisCount": 0
   },
@@ -18,7 +18,7 @@
         "심수빈"
       ],
       "publishedDate": "2026-11-20",
-      "collectedAt": "2026-11-23T03:35:59.965Z",
+      "collectedAt": "2026-11-23T03:44:32.806Z",
       "sourceUrl": "https://stock.naver.com/research/invest/40884",
       "pdfUrl": "https://stock.pstatic.net/stock-research/invest/39/20261120_invest_431644000.pdf",
       "topics": [
