@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "collectedAt": "2026-11-22T22:50:43.861Z",
+  "collectedAt": "2026-11-23T01:32:17.794Z",
   "source": "naver-public-research-web",
   "update": {
-    "checkedAt": "2026-11-22T22:50:43.861Z",
+    "checkedAt": "2026-11-23T01:32:17.794Z",
     "updatedAt": "2026-11-22T22:50:43.861Z",
-    "newAnalysisCount": 1
+    "newAnalysisCount": 0
   },
   "reports": [
     {
@@ -272,7 +272,7 @@
         "김소정"
       ],
       "publishedDate": "2026-11-17",
-      "collectedAt": "2026-11-22T22:49:46.314Z",
+      "collectedAt": "2026-11-23T01:31:33.018Z",
       "sourceUrl": "https://stock.naver.com/research/industry/47038",
       "pdfUrl": "https://stock.pstatic.net/stock-research/industry/63/20261117_industry_63930000.pdf",
       "topics": [
