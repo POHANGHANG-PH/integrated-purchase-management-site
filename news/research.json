@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "collectedAt": "2026-11-24T07:02:31.003Z",
+  "collectedAt": "2026-11-25T05:05:43.952Z",
   "source": "naver-public-research-web",
   "update": {
-    "checkedAt": "2026-11-24T07:02:31.003Z",
+    "checkedAt": "2026-11-25T05:05:43.952Z",
     "updatedAt": "2026-11-22T22:50:43.861Z",
     "newAnalysisCount": 0
   },
@@ -18,7 +18,7 @@
         "심수빈"
       ],
       "publishedDate": "2026-11-20",
-      "collectedAt": "2026-11-23T04:43:44.940Z",
+      "collectedAt": "2026-11-25T05:03:40.258Z",
       "sourceUrl": "https://stock.naver.com/research/invest/40884",
       "pdfUrl": "https://stock.pstatic.net/stock-research/invest/39/20261120_invest_431644000.pdf",
       "topics": [
@@ -272,7 +272,7 @@
         "김소정"
       ],
       "publishedDate": "2026-11-17",
-      "collectedAt": "2026-11-24T07:02:04.785Z",
+      "collectedAt": "2026-11-25T05:03:40.258Z",
       "sourceUrl": "https://stock.naver.com/research/industry/47038",
       "pdfUrl": "https://stock.pstatic.net/stock-research/industry/63/20261117_industry_63930000.pdf",
       "topics": [
