@@ -1,9 +1,9 @@
 {
   "status": "ok",
   "environment": "production",
-  "deployedAt": "2026-11-26T08:54:27.950Z",
-  "sourceCommit": "3cb84447fba436cd04d919aa1405fe2089e5d69b",
-  "workflowRunId": "45786995874",
+  "deployedAt": "2026-11-26T22:47:03.038Z",
+  "sourceCommit": "1c08a067be0401ba96c2c947885ec65eaf5177e4",
+  "workflowRunId": "45906808308",
   "releaseContract": {
     "version": 6,
     "criticalFeatures": [
@@ -56,7 +56,7 @@
   },
   "releaseGuard": {
     "status": "verified",
-    "verifiedAt": "2026-11-26T08:58:59.816Z",
+    "verifiedAt": "2026-11-26T22:53:38.456Z",
     "contractVersion": 6,
     "criticalFeatures": [
       "purchase-planning-core",
@@ -108,17 +108,17 @@
       {
         "path": "news/us-economic.json",
         "bytes": 8946,
-        "sha256": "c3e961dd46698dbaf4ce6a5a8c5a75cc2113a92a6f65cf8dd785a7a6a2e5a0ee"
+        "sha256": "d31ecb9f0c3cb816790518c251e9b42a97f739cd323e53712b7eb70bb0d43ea7"
       },
       {
         "path": "news/telegram-briefing.json",
-        "bytes": 2372,
-        "sha256": "9ec480a6960692622c735410da8d6ae0ccd293e54f95d457be434c12d0f96432"
+        "bytes": 2880,
+        "sha256": "e04eb54b6ea17ccade6ec39e72836bfe0c449df0f35978bc763cf49e4500bbd7"
       },
       {
         "path": "news/market-indicators.json",
         "bytes": 38375,
-        "sha256": "f4114c86eaa04481952e550320544baa92bc5f04257a3e0945a00f9b278391d3"
+        "sha256": "9c407fc958c8d8b4468b39af5a699b7b7248f66e84d977fa1d0632c776c093b6"
       },
       {
         "path": "news/breaking.json",
