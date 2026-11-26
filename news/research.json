@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "collectedAt": "2026-11-25T22:50:04.824Z",
+  "collectedAt": "2026-11-26T04:28:02.521Z",
   "source": "naver-public-research-web",
   "update": {
-    "checkedAt": "2026-11-25T22:50:04.824Z",
+    "checkedAt": "2026-11-26T04:28:02.521Z",
     "updatedAt": "2026-11-25T22:50:04.824Z",
-    "newAnalysisCount": 1
+    "newAnalysisCount": 0
   },
   "reports": [
     {
@@ -16,7 +16,7 @@
         "원유승"
       ],
       "publishedDate": "2026-11-25",
-      "collectedAt": "2026-11-25T22:49:02.817Z",
+      "collectedAt": "2026-11-26T04:27:17.285Z",
       "sourceUrl": "https://stock.naver.com/research/debenture/11607",
       "pdfUrl": "https://stock.pstatic.net/stock-research/debenture/64/20261125_debenture_52200000.pdf",
       "topics": [
