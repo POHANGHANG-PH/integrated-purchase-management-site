@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "collectedAt": "2026-11-27T05:06:31.721Z",
+  "collectedAt": "2026-11-28T04:18:14.653Z",
   "source": "naver-public-research-web",
   "update": {
-    "checkedAt": "2026-11-27T05:06:31.721Z",
+    "checkedAt": "2026-11-28T04:18:14.653Z",
     "updatedAt": "2026-11-26T22:47:02.895Z",
     "newAnalysisCount": 0
   },
@@ -14,7 +14,7 @@
       "broker": "키움증권",
       "authors": [],
       "publishedDate": "2026-11-26",
-      "collectedAt": "2026-11-27T05:05:20.824Z",
+      "collectedAt": "2026-11-28T04:17:50.957Z",
       "sourceUrl": "https://stock.naver.com/research/invest/40958",
       "pdfUrl": "https://stock.pstatic.net/stock-research/invest/39/20261126_invest_794154000.pdf",
       "topics": [
@@ -141,7 +141,7 @@
         "원유승"
       ],
       "publishedDate": "2026-11-25",
-      "collectedAt": "2026-11-27T05:05:20.824Z",
+      "collectedAt": "2026-11-28T04:17:50.957Z",
       "sourceUrl": "https://stock.naver.com/research/debenture/11607",
       "pdfUrl": "https://stock.pstatic.net/stock-research/debenture/64/20261125_debenture_52200000.pdf",
       "topics": [
